@@ -1,0 +1,1087 @@
+,name,size,types,subtype,alignment,armor_class,hit_points,str_stats,dex_stats,con_stats,int_stats,wis_stats,cha_stats,dmg_vul,dmg_resist,dmg_immun,condition_immun,cr,legendary_desc,size_m
+0,Aatxe,Large,celestial,shapechanger,lawful good,14,105,22,12,20,10,14,14,,,,"charmed, frightened",5.0,"The aatxe can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The aatxe regains spent legendary actions at the start of its turn.",3.5
+1,Aboleth,Large,aberration,,lawful evil,17,135,21,9,15,18,15,18,,,,,10.0,"The aboleth can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The aboleth regains spent legendary actions at the start of its turn.",3.5
+2,"Aboleth, Nihilith",Large,undead,,chaotic evil,17,135,21,9,15,18,15,18,,"acid, fire, lightning, thunder (only when in ethereal form); bludgeoning, piercing and slashing from nonmagical weapons","cold, necrotic, poison; bludgeoning, piercing and slashing from nonmagical weapons (only when in ethereal form)","charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained",12.0,"A nihileth can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The nihileth regains spent legendary actions at the start of its turn.",3.5
+3,Abominable Beauty,Medium,fey,,neutral evil,18,187,17,18,18,17,16,26,,,fire,,11.0,,1.8
+4,Accursed Defiler,Medium,undead,,neutral evil,12,75,19,14,17,6,15,14,,"necrotic; bludgeoning, piercing, and slashing from nonmagical weapons",poison,"charmed, exhaustion, frightened, poisoned",4.0,,1.8
+5,Acid Ant,Small,monstrosity,,unaligned,13,13,8,13,12,1,7,3,,,acid,,0.25,,0.9
+6,Acolyte,Medium,humanoid,any race,any alignment,10,9,10,10,10,10,14,11,,,,,0.25,,1.8
+7,Adult Black Dragon,Huge,dragon,,chaotic evil,19,195,23,14,21,14,13,17,,,acid,,14.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",6.86
+8,Adult Blue Dragon,Huge,dragon,,lawful evil,19,225,25,10,23,16,15,19,,,lightning,,16.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",6.86
+9,Adult Brass Dragon,Huge,dragon,,chaotic good,18,172,23,10,21,14,13,17,,,fire,,13.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",6.86
+10,Adult Bronze Dragon,Huge,dragon,,lawful good,19,212,25,10,23,16,15,19,,,lightning,,15.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",6.86
+11,Adult Cave Dragon,Huge,dragon,,neutral evil,18,243,26,12,24,12,12,20,,,"acid, poison, thunder",poisoned,16.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",6.86
+12,Adult Copper Dragon,Huge,dragon,,chaotic good,18,184,23,12,21,18,15,17,,,acid,,14.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",6.86
+13,Adult Flame Dragon,Huge,dragon,,chaotic evil,19,212,19,14,23,17,14,20,,,fire,,16.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",6.86
+14,Adult Gold Dragon,Huge,dragon,,lawful good,19,256,27,14,25,16,15,24,,,fire,,17.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",6.86
+15,Adult Green Dragon,Huge,dragon,,lawful evil,19,207,23,12,21,18,15,17,,,poison,poisoned,15.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",6.86
+16,Adult Light Dragon,Huge,dragon,,neutral good,17,212,22,10,23,16,18,17,,"fire; bludgeoning, piercing, and slashing from nonmagical attacks",radiant,blinded,16.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",6.86
+17,Adult Mithral Dragon,Huge,dragon,,neutral,18,184,27,18,21,20,21,20,,"bludgeoning, piercing, and slashing from nonmagical weapons","acid, thunder",charmed,14.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",6.86
+18,Adult Red Dragon,Huge,dragon,,chaotic evil,19,256,27,10,25,16,13,21,,,fire,,17.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",6.86
+19,Adult Rime Worm,Large,elemental,,neutral,15,105,20,14,20,6,14,3,,,"cold, necrotic",,6.0,,3.5
+20,Adult Sea Dragon,Huge,dragon,,neutral evil,19,225,25,10,23,17,15,19,,,cold,,16.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",6.86
+21,Adult Silver Dragon,Huge,dragon,,lawful good,19,243,27,10,25,16,13,21,,,cold,,16.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",6.86
+22,Adult Void Dragon,Huge,dragon,,chaotic neutral,19,229,24,10,25,16,13,21,,,cold,"charmed, frightened",14.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",6.86
+23,Adult Wasteland Dragon,Huge,dragon,,chaotic evil,18,225,26,10,21,14,13,16,,,force,,17.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",6.86
+24,Adult White Dragon,Huge,dragon,,chaotic evil,18,200,22,10,22,8,12,12,,,cold,,13.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",6.86
+25,Adult Wind Dragon,Huge,dragon,,chaotic neutral,19,237,24,19,22,16,15,18,,,lightning,"charmed, exhausted, paralyzed, restrained",17.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",6.86
+26,Agnibarra,Small,monstrosity,,chaotic neutral,12,39,12,14,16,8,10,12,cold,,fire,,1.0,,0.9
+27,Ahu-Nixta,Large,aberration,,neutral evil,14,67,17,15,14,19,13,10,,,"poison, psychic","charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone",3.0,,3.5
+28,Ahuizotl,Small,monstrosity,,unaligned,14,71,16,15,14,6,12,6,,,,,2.0,,0.9
+29,Air Elemental,Large,elemental,,neutral,15,90,14,20,14,6,10,6,,"lightning; thunder; bludgeoning, piercing, and slashing from nonmagical weapons",poison,"exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious",5.0,,3.5
+30,"Akyishigal, Demon Lord Of Cockroaches",Large,fiend,demon,chaotic evil,18,138,21,17,22,19,14,24,,"acid, fire; bludgeoning, piercing, and slashing from nonmagical weapons","cold, lightning, poison",poisoned,12.0,"Akyishigal can take 2 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Akyishigal regains spent legendary actions at the start of its turn.",3.5
+31,Al-Aeshma Genie,Large,elemental,,chaotic evil,17,172,21,15,22,15,16,20,,,"lightning, thunder",,9.0,,3.5
+32,Ala,Medium,fey,,chaotic evil,17,127,20,16,18,10,16,8,,,"lightning, poison, thunder",poisoned,8.0,,1.8
+33,Alabaster Tree,Huge,celestial,,neutral good,18,105,20,10,18,10,14,10,,"bludgeoning, piercing, and slashing from nonmagical attacks",radiant,stunned,7.0,,6.86
+34,Albino Death Weasel,Large,beast,,unaligned,13,45,16,14,15,4,15,5,,,,,1.0,,3.5
+35,Alchemical Apprentice,Small,ooze,,unaligned,11,63,13,6,13,16,6,10,,"acid, cold, fire, poison",,"blinded, charmed, deafened, frightened, poisoned, prone",1.0,,0.9
+36,Alchemical Golem,Large,construct,,unaligned,15,147,18,7,21,7,10,1,,"acid, cold, fire, lightning","poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",9.0,,3.5
+37,Alchemist Archer,Medium,humanoid,elf,any alignment,17,135,11,20,16,18,14,10,,,,,10.0,,1.8
+38,Alehouse Drake,Tiny,dragon,,chaotic neutral,13,65,7,16,19,11,12,16,,,,"paralyzed, unconscious",0.5,,0.6
+39,Algorith,Medium,construct,,lawful neutral,18,136,21,14,19,13,16,18,,"acid, cold, lightning",poison,"charmed, exhaustion, frightened, paralyzed, petrified, poisoned",10.0,,1.8
+40,Alkonost,Small,monstrosity,,neutral,12,17,11,14,10,7,14,13,,lightning,,,0.5,,0.9
+41,Alliumite,Small,plant,,chaotic neutral,14,18,6,18,12,7,12,9,,,,,0.25,,0.9
+42,Alnaar,Large,fiend,demon,chaotic evil,17,212,20,22,17,9,12,10,cold,"bludgeoning, piercing, and slashing from nonmagical attacks","fire, poison","frightened, poisoned",9.0,,3.5
+43,Alp,Small,fey,shapechanger,chaotic evil,13,44,12,16,14,10,16,8,,"cold, necrotic",,"charmed, exhaustion, paralyzed, unconscious",1.0,,0.9
+44,Alpha Yek,Medium,fiend,demon,chaotic evil,16,129,16,16,16,15,13,10,,"cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks",poison,poisoned,9.0,,1.8
+45,"Alquam, Demon Lord Of Night",Huge,fiend,demon,chaotic evil,20,350,14,19,23,16,20,16,,"fire, lightning","cold, poison; bludgeoning, piercing, and slashing from nonmagical weapons","charmed, exhaustion, frightened, poisoned",21.0,"Alquam can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Alquam regains spent legendary actions at the start of its turn.",6.86
+46,Alseid,Medium,monstrosity,,chaotic neutral,14,49,13,17,12,8,16,8,,,,,0.5,,1.8
+47,Alseid Grovekeeper,Medium,monstrosity,,chaotic neutral,15,71,13,17,12,8,16,8,,,,,3.0,,1.8
+48,Altar Flame Golem,Large,construct,,neutral,16,152,19,9,18,3,10,1,,,"fire, poison, psychic; bludgeoning, piercing and slashing from nonmagical attacks not made with adamantine","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",10.0,,3.5
+49,Ammut,Large,celestial,,neutral,17,172,20,12,23,6,16,12,,"cold, radiant",necrotic,frightened,9.0,,3.5
+50,Amphiptere,Medium,beast,,unaligned,15,60,11,18,17,2,16,6,,,,,3.0,,1.8
+51,Ancient Black Dragon,Gargantuan,dragon,,chaotic evil,22,367,27,14,25,16,15,19,,,acid,,21.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",10.0
+52,Ancient Blue Dragon,Gargantuan,dragon,,lawful evil,22,481,29,10,27,18,17,21,,,lightning,,23.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",10.0
+53,Ancient Brass Dragon,Gargantuan,dragon,,chaotic good,20,297,27,10,25,16,15,19,,,fire,,20.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",10.0
+54,Ancient Bronze Dragon,Gargantuan,dragon,,lawful good,22,444,29,10,27,18,17,21,,,lightning,,22.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",10.0
+55,Ancient Copper Dragon,Gargantuan,dragon,,chaotic good,21,350,27,12,25,20,17,19,,,acid,,21.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",10.0
+56,Ancient Flame Dragon,Gargantuan,dragon,,chaotic evil,22,481,23,14,27,19,16,22,,,fire,,24.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",10.0
+57,Ancient Gold Dragon,Gargantuan,dragon,,lawful good,22,546,30,14,29,18,17,28,,,fire,,24.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",10.0
+58,Ancient Green Dragon,Gargantuan,dragon,,lawful evil,21,385,27,12,25,20,17,19,,,poison,poisoned,22.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",10.0
+59,Ancient Light Dragon,Gargantuan,dragon,,neutral good,22,407,26,10,27,18,20,19,,fire,"radiant; bludgeoning, piercing, and slashing from nonmagical attacks",blinded,22.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",10.0
+60,Ancient Mandriano,Huge,plant,,lawful evil,14,102,21,8,15,12,10,7,fire,"necrotic; bludgeoning, piercing, and slashing from nonmagical attacks",poison,"exhaustion, poisoned",8.0,,6.86
+61,Ancient Mithral Dragon,Gargantuan,dragon,,neutral,20,297,29,16,25,24,25,24,,"bludgeoning, piercing, and slashing from","acid, thunder",charmed,18.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",10.0
+62,Ancient Red Dragon,Gargantuan,dragon,,chaotic evil,22,546,30,10,29,18,15,23,,,fire,,24.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",10.0
+63,Ancient Sea Dragon,Gargantuan,dragon,,neutral evil,22,481,29,10,27,19,17,21,,,cold,,22.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",10.0
+64,Ancient Silver Dragon,Gargantuan,dragon,,lawful good,22,487,30,10,29,18,15,23,,,cold,,23.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",10.0
+65,Ancient Titan,Gargantuan,celestial,titan,neutral good,15,198,27,13,22,16,16,20,,"bludgeoning, piercing, and slashing from nonmagical weapons",,,12.0,,10.0
+66,Ancient Void Dragon,Gargantuan,dragon,,chaotic neutral,22,448,28,10,29,18,15,23,,,cold,"charmed, frightened",24.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",10.0
+67,Ancient Wasteland Dragon,Gargantuan,dragon,,chaotic evil,22,333,28,10,26,16,15,19,,,force,,23.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",10.0
+68,Ancient White Dragon,Gargantuan,dragon,,chaotic evil,20,333,26,10,26,10,13,14,,,cold,,20.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",10.0
+69,Ancient Wind Dragon,Gargantuan,dragon,,chaotic neutral,20,425,28,19,26,18,17,20,,"bludgeoning, piercing, and slashing from nonmagical weapons","lightning, ranged weapons","charmed, exhausted, paralyzed, restrained",22.0,"The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.",10.0
+70,Andrenjinyi,Gargantuan,celestial,,neutral,18,228,30,17,25,10,18,23,,"acid, cold, fire, lightning",psychic,,15.0,,10.0
+71,Androsphinx,Large,monstrosity,,lawful neutral,17,199,22,10,20,16,18,23,,,"psychic; bludgeoning, piercing, and slashing from nonmagical weapons","charmed, frightened",17.0,"The sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The sphinx regains spent legendary actions at the start of its turn.",3.5
+72,Angatra,Medium,undead,,neutral evil,17,85,14,20,18,8,12,15,,"necrotic; bludgeoning, piercing, and slashing from nonmagical weapons",poison,"charmed, exhaustion, frightened, poisoned",6.0,,1.8
+73,"Angel, Chained",Medium,celestial,,neutral evil,16,88,18,16,12,12,18,20,,piercing,"fire, radiant",,8.0,,1.8
+74,Angler Worm,Huge,monstrosity,,unaligned,14,133,14,5,16,3,14,1,,,poison,"blinded, charmed, deafened, poisoned, prone",4.0,,6.86
+75,Animated Armor,Medium,construct,,unaligned,18,33,14,11,13,1,3,1,,,"poison, psychic","blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned",1.0,,1.8
+76,Ankheg,Large,monstrosity,,unaligned,14,39,17,11,13,1,13,6,,,,,2.0,,3.5
+77,Ankou Soul Herald,Gargantuan,dragon,,neutral,18,407,25,10,27,17,18,19,,,"cold, necrotic, poison","charmed, exhaustion, frightened, poisoned",21.0,"The ankou can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The ankou regains spent legendary actions at the start of its turn.",10.0
+78,Ankou Soul Seeker,Large,dragon,,neutral,15,171,17,10,19,13,14,16,,,"cold, necrotic, poison","charmed, exhaustion, frightened, poisoned",8.0,,3.5
+79,Anophiloi,Small,monstrosity,,neutral,12,33,12,14,14,5,12,6,cold,poison,,poisoned,1.0,,0.9
+80,Anubian,Medium,elemental,,chaotic evil,13,44,12,16,12,10,12,10,,"bludgeoning, piercing, and slashing from nonmagical weapons",poison,"exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious",2.0,,1.8
+81,Apau Perape,Large,fiend,demon,chaotic evil,16,95,21,18,19,10,12,15,,"fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical weapons",poison,"frightened, poisoned",6.0,,3.5
+82,Ape,Medium,beast,,unaligned,12,19,16,14,14,6,12,7,,,,,0.5,,1.8
+83,Arbeyach,Large,fiend,devil,lawful evil,17,275,22,20,25,19,21,25,,"acid, cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered","fire, poison","charmed, frightened, poisoned, stunned",21.0,"Arbeyach can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Arbeyach regains spent legendary actions at the start of its turn.",3.5
+84,Arborcyte,Large,plant,,chaotic neutral,16,127,21,12,16,5,10,3,fire,"bludgeoning, piercing",,deafened,8.0,,3.5
+85,Arboreal Grappler,Medium,aberration,,neutral evil,14,90,16,16,16,6,10,6,,,,,3.0,,1.8
+86,Arcamag,Tiny,monstrosity,shapechanger,neutral,13,22,7,10,15,5,12,18,,,,,2.0,,0.6
+87,Arcanaphage,Medium,monstrosity,,unaligned,14,60,10,18,16,2,10,8,,"bludgeoning, piercing, and slashing from magical weapons",,"blinded, charmed, deafened, frightened, prone",4.0,,1.8
+88,Archaeopteryx,Tiny,beast,,unaligned,12,7,6,13,10,2,14,6,,,,,0.25,,0.6
+89,Archmage,Medium,humanoid,any race,any alignment,12,99,10,14,12,20,15,16,,"damage from spells; non magical bludgeoning, piercing, and slashing (from stoneskin)",,,12.0,,1.8
+90,Aridni,Small,fey,,neutral evil,15,82,9,21,14,12,11,16,,,,,5.0,,0.9
+91,Armory Golem,Large,construct,,unaligned,15,136,20,14,16,10,10,2,,,"poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",7.0,,3.5
+92,Asanbosam,Large,aberration,,chaotic evil,14,102,18,13,17,11,10,5,,,,,5.0,,3.5
+93,Ash Drake,Small,dragon,,neutral evil,16,117,14,15,16,9,15,10,,fire,,"paralyzed, unconscious",4.0,,0.9
+94,Assassin,Medium,humanoid,any race,any non-good alignment,15,78,11,16,14,13,11,10,,poison,,,8.0,,1.8
+95,Astral Snapper,Medium,aberration,,neutral evil,12,78,12,15,14,12,16,8,,bludgeoning and slashing from nonmagical attacks,,,3.0,,1.8
+96,Automata Devil,Large,fiend,devil,lawful evil,17,168,24,17,20,11,14,19,,"cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered","fire, poison",poisoned,10.0,,3.5
+97,Avatar Of Boreas,Medium,elemental,shapechanger,chaotic evil,20,168,25,22,22,18,19,21,,acid,"cold, lightning, poison, thunder","petrification, poisoned",17.0,"Boreas can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Boreas regains spent legendary actions at the start of its turn.",1.8
+98,Avatar of Shoth,Gargantuan,aberration,shoth,lawful neutral,18,341,20,9,20,18,20,22,,,"acid, cold, fire","charmed, frightened, prone",21.0,"The avatar can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The avatar regains spent legendary actions at the start of its turn.",10.0
+99,Awakened Shrub,Small,plant,,unaligned,9,10,3,8,11,10,10,6,fire,piercing,,,0.0,,0.9
+100,Awakened Tree,Huge,plant,,unaligned,13,59,19,6,15,10,10,7,fire,"bludgeoning, piercing",,,2.0,,6.86
+101,Axe Beak,Large,beast,,unaligned,11,19,14,12,12,2,10,5,,,,,0.25,,3.5
+102,Azeban,Medium,fey,,chaotic neutral,16,78,16,16,14,15,8,18,,"cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with cold iron",,"charmed, frightened",4.0,,1.8
+103,Azer,Medium,elemental,,lawful neutral,17,39,17,12,15,12,13,10,,,"fire, poison",poisoned,2.0,,1.8
+104,Azi Dahaka,Huge,dragon,,chaotic evil,15,157,21,14,19,14,13,17,,"cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silver",lightning,,14.0,"Azi Dahaka can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Azi Dahaka regains spent legendary actions at the start of its turn.",6.86
+105,Azza Gremlin,Small,fey,,neutral,14,7,5,18,10,12,13,10,,,"lightning, thunder",,0.25,,0.9
+106,"Baba Yaga's Horsemen, Black Night",Medium,fey,,lawful neutral,20,171,22,11,21,16,18,18,,"bludgeoning, piercing, and slashing damage from nonmagical weapons","cold, lightning, poison","exhaustion, paralyzed, poisoned",11.0,,1.8
+107,"Baba Yaga's Horsemen, Bright Day",Medium,fey,,lawful neutral,20,171,22,11,21,16,18,18,,"bludgeoning, piercing, and slashing damage from nonmagical weapons, cold and fire","lightning, poison","exhaustion, paralyzed, poisoned",11.0,,1.8
+108,"Baba Yaga's Horsemen, Red Sun",Medium,fey,,lawful neutral,20,171,22,11,21,16,18,18,,"bludgeoning, piercing, and slashing damage from nonmagical weapons","fire, lightning, poison","blinded, charmed, exhaustion, frightened, paralyzed, poisoned",11.0,,1.8
+109,Baboon,Small,beast,,unaligned,12,3,8,14,11,4,12,6,,,,,0.0,,0.9
+110,Badger,Tiny,beast,,unaligned,10,3,4,11,12,2,12,5,,,,,0.0,,0.6
+111,Bagiennik,Medium,aberration,,chaotic neutral,15,75,16,18,16,9,16,11,,,,,3.0,,1.8
+112,Balor,Huge,fiend,demon,chaotic evil,19,262,26,15,22,20,16,22,,"cold, lightning; bludgeoning, piercing, and slashing from nonmagical weapons","fire, poison",poisoned,19.0,,6.86
+113,Bandit,Medium,humanoid,any race,any non-lawful alignment,12,11,11,12,12,10,10,10,,,,,0.125,,1.8
+114,Bandit Captain,Medium,humanoid,any race,any non-lawful alignment,15,65,15,16,14,14,11,14,,,,,2.0,,1.8
+115,Bandit Lord,Medium,humanoid,,any non-lawful,16,91,16,15,14,14,11,14,,,,,4.0,,1.8
+116,Bar Brawl,Huge,humanoid,,unaligned,12,67,14,12,13,11,10,9,bludgeoning,"piercing, slashing",,"charmed, frightened, paralyzed, petrified, prone, restrained, stunned",3.0,,6.86
+117,Barbed Devil,Medium,fiend,devil,lawful evil,15,110,16,17,18,12,14,14,,"cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered","fire, poison",poisoned,5.0,,1.8
+118,Barong,Large,celestial,,lawful good,20,225,25,20,25,18,23,22,,"bludgeoning, piercing, and slashing from nonmagical attacks",radiant,"charmed, exhaustion, frightened",17.0,"Barong can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Barong regains spent legendary actions at the start of his turn.",3.5
+119,Basilisk,Medium,monstrosity,,unaligned,12,52,16,8,15,2,8,7,,,,,3.0,,1.8
+120,Bastet Temple Cat,Small,monstrosity,,chaotic neutral,14,40,8,19,12,12,16,18,,,,,1.0,,0.9
+121,Bat,Tiny,beast,,unaligned,12,1,2,15,8,2,12,4,,,,,0.0,,0.6
+122,Bathhouse Drake,Medium,dragon,,lawful neutral,16,75,15,14,17,12,18,15,,fire,poison,poisoned,3.0,,1.8
+123,Bear King,Medium,fey,shapechanger,lawful neutral,18,133,21,10,20,12,17,16,,cold,"poison; bludgeoning, slashing, and piercing from nonmagical weapons that aren't made of cold iron",poisoned,12.0,"The Bear King can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The Bear King regains spent legendary actions at the start of his turn.",1.8
+124,Bearded Devil,Medium,fiend,devil,lawful evil,13,52,16,15,15,9,11,11,,"cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered","fire, poison",poisoned,3.0,,1.8
+125,Bearfolk,Medium,humanoid,bearfolk,chaotic good,14,45,19,14,16,8,12,9,,,,,3.0,,1.8
+126,Bearfolk Chieftain,Medium,humanoid,bearfolk,chaotic good,17,130,21,14,16,9,14,12,,,,,6.0,,1.8
+127,Bearmit Crab,Large,monstrosity,,unaligned,14,59,18,13,16,4,13,6,,bludgeoning,,,2.0,,3.5
+128,Beggar Ghoul,Medium,undead,,chaotic evil,12,13,10,15,10,12,11,14,,,poison,"charmed, exhaustion, poisoned",0.5,,1.8
+129,Behir,Huge,monstrosity,,neutral evil,17,168,23,16,18,7,14,12,,,lightning,,11.0,,6.86
+130,Behtu,Small,humanoid,,chaotic evil,14,52,17,16,16,12,11,7,,"cold, fire, lightning",,,2.0,,0.9
+131,Beli,Small,fey,,neutral evil,15,45,11,16,12,8,11,14,,,cold,,2.0,,0.9
+132,Bereginyas,Tiny,fey,,neutral evil,15,70,14,20,12,13,12,11,,,bludgeoning,,4.0,,0.6
+133,Berserker,Medium,humanoid,any race,any chaotic alignment,13,67,16,12,17,9,11,9,,,,,2.0,,1.8
+134,Berstuc,Large,fiend,demon,chaotic evil,18,157,22,10,20,12,14,19,,"acid, fire; bludgeoning, piercing, and slashing damage from nonmagical weapons","lightning, poison",poisoned,11.0,,3.5
+135,Bilwis,Medium,elemental,,chaotic evil,13,49,12,16,10,10,13,16,,"lightning, thunder",poison,"exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious",1.0,,1.8
+136,Black Bear,Medium,beast,,unaligned,11,19,15,10,14,2,12,7,,,,,0.5,,1.8
+137,Black Dragon Wyrmling,Medium,dragon,,chaotic evil,17,33,15,14,13,10,11,13,,,acid,,2.0,,1.8
+138,Black Knight Commander,Medium,humanoid,,lawful evil,18,78,18,10,14,12,13,15,,,,,5.0,,1.8
+139,Black Pudding,Large,ooze,,unaligned,7,85,16,5,16,1,6,1,,,"acid, cold, lightning, slashing","blinded, charmed, deafened, exhaustion, frightened, prone",4.0,,3.5
+140,Black Sun Orc,Medium,humanoid,orc,chaotic evil,14,65,16,14,14,9,12,8,,,,,2.0,,1.8
+141,Black Sun Priestess,Medium,humanoid,orc,chaotic evil,13,67,16,12,16,9,16,14,,,,,3.0,,1.8
+142,Blemmyes,Large,monstrosity,,chaotic evil,15,168,20,13,20,7,12,5,,,,,8.0,,3.5
+143,Blink Dog,Medium,fey,,lawful good,13,22,12,17,12,10,13,11,,,,,0.25,,1.8
+144,Blood Elemental,Large,elemental,,neutral,14,95,16,13,18,5,10,5,poison,"acid, fire; bludgeoning, piercing, and slashing from nonmagical attacks","necrotic, psychic","exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious",5.0,,3.5
+145,Blood Giant,Huge,giant,,lawful neutral,15,126,23,12,18,8,16,5,,necrotic,"cold, poison","exhaustion, poisoned",8.0,,6.86
+146,Blood Hag,Medium,fey,,chaotic evil,16,178,20,16,18,19,21,17,,,,"charmed, poisoned",11.0,,1.8
+147,Blood Hawk,Small,beast,,unaligned,12,7,6,14,10,3,14,5,,,,,0.125,,0.9
+148,Blood Ooze,Large,ooze,,unaligned,8,76,16,6,18,1,8,2,,,"acid, fire, necrotic, slashing","blinded, charmed, deafened, exhaustion, frightened, prone",6.0,,3.5
+149,Blood Zombie,Medium,undead,,neutral evil,10,51,16,6,18,3,6,5,,,poison,poisoned,2.0,,1.8
+150,Bloody Bones,Medium,monstrosity,,chaotic evil,13,55,16,12,12,6,10,10,,,,,3.0,,1.8
+151,Blue Dragon Wyrmling,Medium,dragon,,lawful evil,17,52,17,10,15,12,11,15,,,lightning,,3.0,,1.8
+152,Boar,Medium,beast,,unaligned,11,11,13,11,12,2,9,5,,,,,0.25,,1.8
+153,Boloti,Tiny,fey,,neutral evil,15,63,12,20,14,13,12,11,,,,,1.0,,0.6
+154,Bone Collective,Small,undead,,chaotic evil,17,120,10,20,18,14,10,16,,"bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered","necrotic, poison","exhaustion, poisoned",8.0,,0.9
+155,Bone Crab,Small,beast,,neutral,13,33,10,14,14,1,12,4,,bludgeoning,,,0.5,,0.9
+156,Bone Devil,Large,fiend,devil,lawful evil,19,142,18,16,18,13,14,16,,"cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered","fire, poison",poisoned,12.0,,3.5
+157,Bone Golem,Medium,construct,,unaligned,16,60,10,16,17,3,10,1,,"bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine","necrotic, poison, psychic","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",7.0,,1.8
+158,Bone Swarm,Large,swarm of Tiny undead,,chaotic evil,17,198,22,18,10,9,15,20,,piercing and slashing from nonmagical weapons,poison,"charmed, exhaustion, frightened, paralyzed, poisoned, prone, restrained, stunned",10.0,,3.5
+159,Bonepowder Ghoul,Small,undead,,neutral evil,18,195,10,20,18,19,15,18,,"cold, lightning; bludgeoning, piercing, and slashing from nonmagical weapons","necrotic, poison","charmed, exhaustion, frightened, paralyzed, poisoned",12.0,,0.9
+160,Bookkeeper,Tiny,construct,,unaligned,12,5,8,14,10,6,8,3,,"bludgeoning, piercing, and slashing from nonmagical attacks","either cold or fire (designated at the time of the bookkeeper's creation), poison, psychic","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",0.125,,0.6
+161,Boot Grabber,Small,aberration,,neutral,11,22,17,12,14,4,12,2,,acid,,prone,0.5,,0.9
+162,Bouda,Medium,fiend,shapechanger,neutral evil,15,93,19,14,18,10,12,15,,"acid, lightning; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered","fire, poison","charmed, exhaustion, poisoned",5.0,,1.8
+163,Brass Dragon Wyrmling,Medium,dragon,,chaotic good,16,16,15,10,13,10,11,13,,,fire,,1.0,,1.8
+164,Bronze Dragon Wyrmling,Medium,dragon,,lawful good,17,32,17,10,15,12,11,15,,,lightning,,2.0,,1.8
+165,Bronze Golem,Large,construct,,unaligned,13,57,17,6,18,1,10,1,,"fire; bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine","poison, psychic","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",3.0,,3.5
+166,Broodiken,Tiny,construct,,neutral,13,55,8,14,16,2,10,6,,"bludgeoning, piercing, and slashing damage from nonmagical weapons",poison,"charmed, exhaustion, frightened, paralyzed, petrified, poisoned",1.0,,0.6
+167,Brown Bear,Large,beast,,unaligned,11,34,19,10,16,2,13,7,,,,,1.0,,3.5
+168,Bucca,Tiny,fey,,neutral evil,14,27,10,16,17,13,9,16,,,,,0.5,,0.6
+169,Bugbear,Medium,humanoid,goblinoid,chaotic evil,16,27,15,14,13,8,11,9,,,,,1.0,,1.8
+170,Bukavac,Large,monstrosity,,neutral evil,16,199,20,17,18,7,15,12,,,thunder,,9.0,,3.5
+171,Bulette,Large,monstrosity,,unaligned,17,94,19,11,21,2,10,5,,,,,5.0,,3.5
+172,Buraq,Medium,celestial,,lawful good,17,152,15,18,20,18,18,20,,"radiant; bludgeoning, piercing, and slashing from nonmagical weapons",,"charmed, exhaustion, frightened",11.0,,1.8
+173,Burrowling,Small,humanoid,burrowling,lawful neutral,13,27,10,16,12,9,12,13,,,,,0.5,,0.9
+174,Cactid,Large,plant,,unaligned,14,76,16,8,18,7,10,9,,"bludgeoning, piercing",,"blinded, deafened",3.0,,3.5
+175,Cacus Giant,Huge,giant,,chaotic evil,16,138,21,11,20,7,14,10,,,fire,,6.0,,6.86
+176,"Camazotz, Demon Lord Of Bats And Fire",Large,fiend,demon,chaotic evil,19,537,30,22,25,12,22,25,,"acid, lightning; bludgeoning, piercing, and slashing from nonmagical weapons","fire, poison, thunder","charmed, deafened, frightened, paralyzed, petrified, poisoned, stunned",22.0,"Camazotz can take 2 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Camazotz regains spent legendary actions at the start of its turn.",3.5
+177,Cambium,Large,fiend,,neutral evil,19,264,21,16,23,17,16,18,,,poison,"exhaustion, poisoned",14.0,,3.5
+178,Camel,Large,beast,,unaligned,9,15,16,8,14,2,8,5,,,,,0.125,,3.5
+179,Carbuncle,Small,monstrosity,,chaotic good,12,36,8,14,12,11,16,12,,,,charmed,1.0,,0.9
+180,Carrion Beetle,Large,beast,,neutral,15,127,19,12,17,1,13,10,,,,paralysis,4.0,,3.5
+181,Cat,Tiny,beast,,unaligned,12,2,3,15,10,3,12,7,,,,,0.0,,0.6
+182,Cats of Ulthar,Huge,beasts,,unaligned,14,55,9,18,10,2,14,3,,"bludgeoning, piercing, slashing",,"charmed, frightened, paralyzed, petrified, prone, restrained, stunned",4.0,,6.86
+183,Cauldronborn,Small,construct,,unaligned,13,13,14,7,12,3,6,1,,piercing and slashing from nonmagical attacks not made with adamantine,poison,"charmed, exhaustion, frightened, paralyzed, petrified, poisoned",2.0,,0.9
+184,Cave Dragon Wyrmling,Medium,dragon,,neutral evil,16,75,19,12,17,8,10,12,,,"acid, poison, thunder",poisoned,2.0,,1.8
+185,Cave Giant,Huge,giant,,chaotic evil,16,200,27,10,22,8,13,6,,,,,10.0,,6.86
+186,Cavelight Moss,Large,plant,,neutral,15,95,24,10,18,1,13,5,,"acid, cold, fire; slashing from nonmagical weapons",,"charmed, deafened, frightened, paralyzed, prone, stunned, unconscious",4.0,,3.5
+187,Centaur,Large,monstrosity,,neutral good,12,45,18,14,14,9,13,11,,,,,2.0,,3.5
+188,Centaur Chieftain,Large,monstrosity,,chaotic neutral,16,110,19,12,14,9,14,14,,,,,5.0,,3.5
+189,Chain Devil,Medium,fiend,devil,lawful evil,16,85,18,15,18,11,12,14,,"cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered","fire, poison",poisoned,11.0,,1.8
+190,Chaos-Spawn Goblin,Small,humanoid,goblinoid,neutral evil,13,22,10,14,12,10,10,6,,psychic,,frightened,0.5,,0.9
+191,Chelicerae,Large,aberration,,neutral evil,16,153,22,17,17,14,15,14,,,poison,"charmed, poisoned",7.0,,3.5
+192,Chernomoi,Tiny,fey,,neutral,13,32,9,18,18,12,11,16,,"bludgeoning, piercing, and slashing from nonmagical attacks not made with silver weapons",,,1.0,,0.6
+193,Child Of The Briar,Tiny,plant,,neutral evil,13,50,6,17,11,13,10,14,,,,,1.0,,0.6
+194,Child of Yggdrasil,Large,aberration,,neutral evil,14,112,16,10,14,10,18,8,fire,,"acid, cold; bludgeoning from nonmagical attacks",,6.0,,3.5
+195,Chimera,Large,monstrosity,,chaotic evil,14,114,19,11,19,3,14,10,,,,,6.0,,3.5
+196,Chort Devil,Medium,fiend,devil,lawful evil,18,187,24,20,26,18,20,20,,"bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered","cold, fire, poison",poisoned,12.0,,1.8
+197,Chronalmental,Large,elemental,,unaligned,17,152,1,20,19,9,13,6,,,"poison; bludgeoning, piercing, and slashing from nonmagical weapons","exhaustion, paralyzed, petrified, poisoned, unconscious",8.0,,3.5
+198,Chuhaister,Large,giant,,chaotic evil,16,157,22,9,20,10,11,12,,,poison,"charmed, poisoned",7.0,,3.5
+199,Chupacabra,Small,monstrosity,,unaligned,13,36,16,15,12,3,12,6,,,,poisoned,0.5,,0.9
+200,Chuul,Large,aberration,,chaotic evil,16,93,19,10,16,5,11,5,,,poison,poisoned,4.0,,3.5
+201,Cikavak,Tiny,fey,,neutral,12,17,4,15,10,12,12,4,,"acid, fire, poison",,,0.125,,0.6
+202,Cipactli,Medium,fiend,demon,chaotic evil,15,78,16,14,14,10,10,10,fire,lightning,"cold, poison",poisoned,5.0,,1.8
+203,City Watch Captain,Medium,humanoid,,lawful neutral,17,91,13,16,14,10,11,13,,,,,4.0,,1.8
+204,Clacking Skeleton,Medium,undead,,neutral evil,14,45,14,12,11,6,8,5,bludgeoning,,poison,"exhaustion, poisoned",2.0,,1.8
+205,Clay Golem,Large,construct,,unaligned,14,133,20,9,18,3,8,1,,,"acid, poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",9.0,,3.5
+206,Cloaker,Large,aberration,,chaotic neutral,14,78,17,15,12,13,12,14,,,,,8.0,,3.5
+207,Clockwork Abomination,Large,construct,devil,lawful evil,16,76,21,12,18,10,10,12,,"acid, cold, fire; bludgeoning, piercing, and slashing from nonmagical weapons",poison,"charmed, exhaustion, frightened, paralyzed, petrified, poisoned",5.0,,3.5
+208,Clockwork Assassin,Medium,construct,,unaligned,16,99,14,17,12,12,12,7,,,"lightning, poison","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",6.0,,1.8
+209,Clockwork Beetle,Tiny,construct,,unaligned,14,15,8,16,10,4,12,7,,,"poison, psychic","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",0.5,,0.6
+210,Clockwork Beetle Swarm,Large,Swarm of Tiny constructs,,neutral,14,52,8,16,12,4,12,7,,"bludgeoning, piercing, and slashing","fire, poison, psychic","charmed, frightened, paralyzed, petrified, prone, restrained, stunned",3.0,,3.5
+211,Clockwork Hound,Medium,construct,,unaligned,12,71,16,15,14,1,10,1,,,"poison, psychic","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",2.0,,1.8
+212,Clockwork Huntsman,Medium,construct,,unaligned,14,110,17,14,12,4,10,1,,,"poison, psychic","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",3.0,,1.8
+213,Clockwork Myrmidon,Large,construct,,unaligned,16,153,20,14,16,10,10,1,,,"poison, psychic","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",6.0,,3.5
+214,Clockwork Servant,Medium,construct,,unaligned,11,22,14,12,13,8,12,7,,,"poison, psychic","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",0.125,,1.8
+215,Clockwork Soldier,Medium,construct,,unaligned,12,45,13,13,16,5,10,1,,,"poison, psychic","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",1.0,,1.8
+216,Clockwork Watchman,Medium,construct,,unaligned,14,55,14,12,12,5,10,1,,,"poison, psychic","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",0.5,,1.8
+217,Cloud Giant,Huge,giant,,neutral good (50%) or neutral evil (50%),14,200,27,10,22,12,16,16,,,,,9.0,,6.86
+218,Clurichaun,Tiny,fey,,chaotic neutral,14,22,13,12,16,10,8,16,,,,"frightened, poisoned",0.25,,0.6
+219,Cobbleswarm,Medium,swarm of Tiny monstrosities,,unaligned,15,36,12,11,11,5,12,5,,"bludgeoning, piercing, slashing",,"charmed, frightened, paralyzed, petrified, prone, stunned",2.0,,1.8
+220,Cockatrice,Small,monstrosity,,unaligned,11,27,6,12,12,2,13,5,,,,,0.5,,0.9
+221,Commoner,Medium,humanoid,any race,any alignment,10,4,10,10,10,10,10,10,,,,,0.0,,1.8
+222,Constrictor Snake,Large,beast,,unaligned,12,13,15,14,12,1,10,3,,,,,0.25,,3.5
+223,Copper Dragon Wyrmling,Medium,dragon,,chaotic good,16,22,15,12,13,14,11,13,,,acid,,1.0,,1.8
+224,Coral Drake,Medium,dragon,,neutral evil,16,127,19,1,18,10,13,10,,cold,,"paralyzed, poisoned, prone, unconscious",7.0,,1.8
+225,Corpse Mound,Huge,undead,,neutral evil,16,207,24,11,21,8,10,8,,necrotic,poison,"charmed, exhaustion, frightened, poisoned",11.0,,6.86
+226,Corpse Thief,Medium,humanoid,,neutral,13,30,12,17,16,11,13,6,,,,,0.5,,1.8
+227,Corrupting Ooze,Large,ooze,,neutral evil,12,115,16,10,22,4,2,1,,"slashing, bludgeoning","acid, fire, poison","exhaustion, frightened, paralyzed, petrified, poisoned",5.0,,3.5
+228,Couatl,Medium,celestial,,lawful good,19,97,16,20,17,18,20,18,,radiant,"psychic; bludgeoning, piercing, and slashing from nonmagical weapons",,4.0,,1.8
+229,Crab,Tiny,beast,,unaligned,11,2,2,11,10,1,8,2,,,,,0.0,,0.6
+230,Crimson Drake,Tiny,dragon,,chaotic evil,14,54,10,14,14,8,9,14,,,fire,"paralyzed, unconscious",1.0,,0.6
+231,Crimson Mist,Medium,undead,,chaotic evil,15,68,17,15,18,3,20,18,,"acid, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks","cold, necrotic, poison","charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained",6.0,,1.8
+232,Crocodile,Large,beast,,unaligned,12,19,15,10,13,2,10,5,,,,,0.5,,3.5
+233,Crypt Spider,Medium,beast,,lawful evil,15,38,14,16,12,10,11,8,,,poison,poisoned,2.0,,1.8
+234,Crystalline Devil,Medium,fiend,devil,lawful evil,15,102,18,12,18,14,13,15,,"acid, cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered","fire, poison",poisoned,6.0,,1.8
+235,Cueyatl,Small,humanoid,,lawful evil,11,21,10,12,11,10,11,10,,,,,0.5,,0.9
+236,Cueyatl Moon Priest,Small,humanoid,,lawful evil,13,81,10,12,12,10,16,12,,,,,5.0,,0.9
+237,Cueyatl Sea Priest,Small,humanoid,,lawful evil,12,45,10,12,12,10,14,10,,,,,1.0,,0.9
+238,Cueyatl Warrior,Small,humanoid,,lawful evil,13,36,12,14,12,10,11,10,,,,,1.0,,0.9
+239,Cult Fanatic,Medium,humanoid,any race,any non-good alignment,13,22,11,14,12,10,13,14,,,,,2.0,,1.8
+240,Cultist,Medium,humanoid,any race,any non-good alignment,12,9,11,12,10,10,11,10,,,,,0.125,,1.8
+241,Darakhul High Priestess,Medium,undead,,neutral evil,17,112,16,14,16,12,18,15,,necrotic,poison,"charmed, exhaustion, poisoned",9.0,,1.8
+242,Darakhul Shadowmancer,Medium,undead,,neutral evil,12,52,12,16,14,18,13,9,,necrotic,poison,"charmed, exhaustion, poisoned",4.0,,1.8
+243,Dark Eye,Medium,humanoid,dark folk,neutral evil,16,71,10,14,15,9,13,16,,,,,3.0,,1.8
+244,Dark Father,Large,undead,,lawful neutral,18,65,6,14,15,8,14,8,,"bludgeoning, piercing, and slashing from nonmagical attacks","necrotic, poison","exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained",4.0,,3.5
+245,Dark Servant,Medium,humanoid,dark folk,neutral evil,12,55,16,12,13,10,10,10,,,,,1.0,,1.8
+246,Dark Voice,Medium,humanoid,dark folk,neutral evil,16,91,14,10,15,11,16,18,,,,,5.0,,1.8
+247,Darkmantle,Small,monstrosity,,unaligned,11,22,16,12,13,2,10,5,,,,,0.5,,0.9
+248,Dau,Small,fey,,chaotic neutral,13,49,7,17,14,14,17,16,,,,,4.0,,0.9
+249,Death Butterfly Swarm,Large,swarm of tiny beasts,,chaotic evil,15,60,1,13,10,1,12,15,,"bludgeoning, piercing, slashing",,"charmed, frightened, paralyzed, petrified, prone, restrained, petrified",4.0,,3.5
+250,Death Dog,Medium,monstrosity,,neutral evil,12,39,15,14,14,3,13,6,,,,,1.0,,1.8
+251,Deathcap Myconid,Medium,plant,,neutral evil,15,90,12,10,16,10,11,9,,,,,4.0,,1.8
+252,Deathsworn Elf,Medium,humanoid,elf,chaotic neutral,16,82,14,19,12,11,13,14,,,,,6.0,,1.8
+253,Deathwisp,Medium,undead,,neutral evil,15,82,6,20,16,18,16,20,,"acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered","necrotic, poison","charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained",7.0,,1.8
+254,Deep Drake,Large,dragon,,chaotic evil,17,150,21,19,14,11,14,12,,,necrotic,"paralyzed, unconscious",9.0,,3.5
+255,Deep Gnome (Svirfneblin),Small,humanoid,gnome,neutral good,15,16,15,14,14,12,10,9,,,,,0.5,,0.9
+256,Deep One,Medium,humanoid,,chaotic evil,13,91,16,12,14,10,8,12,,cold,,,2.0,,1.8
+257,Deep One Archimandrite,Large,humanoid,,chaotic evil,15,153,20,15,17,12,17,19,,"cold, thunder",,,8.0,,3.5
+258,Deep One Hybrid Priest,Medium,humanoid,,chaotic evil,14,120,18,14,16,12,12,15,,cold,,,4.0,,1.8
+259,Deer,Medium,beast,,unaligned,13,4,11,16,11,2,14,5,,,,,0.0,,1.8
+260,Degenerate Titan,Huge,giant,,chaotic evil,12,161,24,6,20,6,9,7,,,,,8.0,,6.86
+261,Derro Fetal Savant,Tiny,humanoid,,chaotic evil,15,2,1,1,6,6,12,20,,,psychic,"charmed, frightened",4.0,,0.6
+262,Derro Shadow Antipaladin,Small,humanoid,derro,chaotic evil,18,82,11,18,18,11,5,14,,,,,5.0,,0.9
+263,Desert Giant,Huge,giant,,neutral,17,175,27,10,22,13,18,15,,,fire,,9.0,,6.86
+264,Desert Troll,Large,giant,,chaotic evil,15,105,20,13,20,9,12,7,,,fire,,6.0,,3.5
+265,Deva,Medium,celestial,,lawful good,17,136,18,18,18,17,20,20,,"radiant; bludgeoning, piercing, and slashing from nonmagical weapons",,"charmed, exhaustion, frightened",10.0,,1.8
+266,Devil Bough,Huge,fiend,,neutral evil,14,114,18,10,17,10,10,8,,,"fire, poison",poisoned,6.0,,6.86
+267,Devil Shark,Gargantuan,monstrosity,,neutral evil,16,198,24,14,22,14,20,14,,fire,cold,,13.0,,10.0
+268,Devilbound Gnomish Prince,Small,humanoid,gnome,any evil,12,104,10,14,15,16,12,22,,"cold, fire, poison; bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered",,poisoned,9.0,,0.9
+269,Dhampir,Medium,humanoid,dhampir,any alignment,15,32,12,15,14,10,10,16,,necrotic,,,1.0,,1.8
+270,Dhampir Commander,Medium,humanoid,dhampir,any alignment,17,97,14,17,16,14,12,19,,necrotic,,,7.0,,1.8
+271,Dipsa,Tiny,ooze,,unaligned,15,27,3,17,14,1,6,1,,acid,,"blinded, charmed, deafened, exhaustion, frightened, prone",0.25,,0.6
+272,Dire Wolf,Large,beast,,unaligned,14,37,17,15,15,3,12,7,,,,,1.0,,3.5
+273,Dissimortuum,Medium,undead,,chaotic evil,15,112,14,10,16,8,11,18,,"bludgeoning, piercing, and slashing from nonmagical weapons","necrotic, poison","charmed, exhaustion, poisoned",7.0,,1.8
+274,Djinni,Large,elemental,,chaotic good,17,161,21,15,22,15,16,20,,,"lightning, thunder",,11.0,,3.5
+275,Dogmole,Medium,beast,,neutral,14,71,14,17,15,2,12,10,,,,,1.0,,1.8
+276,Dogmole Juggernaut,Large,monstrosity,,neutral,15,126,21,14,20,2,10,2,,,,,5.0,,3.5
+277,Domovoi,Medium,fey,,chaotic neutral,15,93,19,13,18,6,10,16,,,"acid, lightning",,4.0,,1.8
+278,Doom Golem,Large,construct,,unaligned,17,153,24,13,16,3,10,1,,,"cold, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",10.0,,3.5
+279,Doppelganger,Medium,monstrosity,shapechanger,unaligned,14,52,11,18,14,11,12,14,,,,charmed,3.0,,1.8
+280,Doppelrat,Tiny,monstrosity,,unaligned,13,22,2,17,14,2,13,2,,,,,2.0,,0.6
+281,Dorreq,Medium,aberration,,neutral evil,15,93,19,19,13,11,8,6,,"acid, cold, lightning",,,4.0,,1.8
+282,Dracotaur,Large,dragon,,chaotic neutral,17,110,21,17,16,10,13,15,,,lightning,,6.0,,3.5
+283,Draft Horse,Large,beast,,unaligned,10,19,18,10,12,2,11,7,,,,,0.25,,3.5
+284,Dragon Eel,Huge,dragon,,neutral,18,230,26,12,20,14,13,14,,,lightning,"paralyzed, prone",12.0,,6.86
+285,Dragon Turtle,Gargantuan,dragon,,neutral,20,341,25,10,20,10,12,12,,fire,,,17.0,,10.0
+286,Dragonleaf Tree,Large,plant,,unaligned,16,152,16,10,19,3,12,17,,,"A dragonleaf tree enjoys the same immunities as its progenitor. Black, copper, and green trees are immune to acid damage; blue and bronze trees are immune to lightning damage; brass, gold, and red trees are immune to fire damage; and silver and white trees are immune to cold damage.","blinded, deafened",8.0,,3.5
+287,Drakon,Large,beast,,unaligned,16,105,14,19,15,2,12,10,,acid,,paralyzed,5.0,,3.5
+288,Dream Eater,Medium,fiend,,lawful evil,15,75,15,18,17,16,13,20,,"cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical weapons",poison,poisoned,5.0,,1.8
+289,Dream Squire,Medium,fey,,neutral,15,71,15,14,12,10,10,8,,,,exhaustion,2.0,,1.8
+290,Dream Wraith,Medium,undead,,neutral evil,14,60,6,18,17,12,15,16,psychic,"acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks","necrotic, poison",poisoned,5.0,,1.8
+291,Dretch,Small,fiend,demon,chaotic evil,11,18,11,11,12,5,8,3,,"cold, fire, lightning",poison,poisoned,0.25,,0.9
+292,Drider,Large,monstrosity,,chaotic evil,19,123,16,16,18,13,14,12,,,,,6.0,,3.5
+293,Droth,Huge,aberration,shoth,lawful neutral,16,230,18,9,20,14,16,20,,"cold, fire",acid,,12.0,,6.86
+294,Drow,Medium,humanoid,elf,neutral evil,15,13,10,14,10,11,11,12,,,,,0.25,,1.8
+295,Drowned Maiden,Medium,undead,,neutral evil,15,90,15,16,10,10,12,18,,"bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered","necrotic, poison","charmed, exhaustion, frightened, paralyzed, poisoned",5.0,,1.8
+296,Druid,Medium,humanoid,any race,any alignment,11,27,10,12,13,12,15,11,,,,,2.0,,1.8
+297,Dryad,Medium,fey,,neutral,11,22,10,12,11,14,15,18,,,,,1.0,,1.8
+298,Duergar,Medium,humanoid,dwarf,lawful evil,16,26,14,11,14,11,10,9,,poison,,,1.0,,1.8
+299,Dullahan,Large,fey,,lawful evil,17,178,19,18,20,13,15,17,,"bludgeoning, piercing, and slashing damage from nonmagical weapons",necrotic,"charmed, frightened, exhaustion",11.0,,3.5
+300,Dune Mimic,Huge,monstrosity,shapechanger,neutral,13,168,20,8,18,9,13,10,,,acid,prone,8.0,,6.86
+301,Duskthorn Dryad,Medium,fey,,chaotic,17,77,10,20,13,14,15,24,,,,,3.0,,1.8
+302,Dust Goblin,Small,humanoid,goblinoid,neutral evil,14,5,8,16,14,10,8,8,,,,"charmed, frightened",0.25,,0.9
+303,Dust Goblin Chieftain,Small,humanoid,goblinoid,neutral evil,16,44,8,18,15,14,13,13,,,,,3.0,,0.9
+304,Dust Mephit,Small,elemental,,neutral evil,12,17,5,14,10,9,11,10,fire,,poison,poisoned,0.5,,0.9
+305,Dvarapala,Huge,giant,,any alignment (as its patron deity),14,136,19,8,18,10,16,9,,,,"charmed, exhaustion, frightened",5.0,,6.86
+306,Dwarven Ringmage,Medium,humanoid,dwarf,any,16,82,10,14,13,18,12,9,,poison,,,7.0,,1.8
+307,Eagle,Small,beast,,unaligned,12,3,6,15,10,2,14,7,,,,,0.0,,0.9
+308,Eala,Small,monstrosity,,unaligned,15,40,10,16,12,2,12,16,,,fire,,2.0,,0.9
+309,Earth Elemental,Large,elemental,,neutral,17,126,20,8,20,5,10,5,thunder,"bludgeoning, piercing, and slashing from nonmagical weapons",poison,"exhaustion, paralyzed, petrified, poisoned, unconscious",5.0,,3.5
+310,Eater Of Dust (Yakat-Shi),Medium,aberration,,neutral evil,17,114,20,14,20,10,15,17,,"acid, cold","bludgeoning, piercing, poison and slashing from nonmagical weapons","blindness, lightning, poisoned",9.0,,1.8
+311,Echo,Medium,fiend,demon,chaotic evil,15,102,20,20,18,14,18,16,,"cold, fire, lightning",poison,poisoned,6.0,,1.8
+312,Ecstatic Bloom,Huge,celestial,,neutral good,15,171,10,9,16,20,19,14,fire,,radiant,"charmed, frightened",11.0,,6.86
+313,Edimmu,Medium,undead,,chaotic evil,15,75,1,19,16,12,13,13,,"acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical weapons","necrotic, poison","charmed, exhaustion, grappled, frightened, paralyzed, petrified, poisoned, prone, restrained, unconscious",4.0,,1.8
+314,Edjet,Medium,humanoid,dragonborn,lawful neutral,14,52,17,12,14,10,13,13,,fire,,,3.0,,1.8
+315,Eel Hound,Medium,fey,,neutral,14,77,19,16,13,6,13,16,,,,,2.0,,1.8
+316,Efreeti,Large,elemental,,lawful evil,17,200,22,12,24,16,15,16,,,fire,,11.0,,3.5
+317,Einherjar,Medium,humanoid,,chaotic neutral,18,119,19,16,19,10,14,11,,piercing weapons that are nonmagical,,,7.0,,1.8
+318,Elder Ghost Boar,Huge,monstrosity,,unaligned,15,104,22,9,17,7,12,7,,,,,6.0,,6.86
+319,Elder Shadow Drake,Large,dragon,,chaotic evil,16,114,22,13,18,8,9,13,,,cold,"paralyzed, unconscious",7.0,,3.5
+320,Eleinomae,Medium,fey,,chaotic evil,18,112,13,19,16,14,14,19,,,,,5.0,,1.8
+321,Elemental Locus,Gargantuan,elemental,,neutral,16,290,28,1,18,10,11,11,,"bludgeoning, piercing, and slashing","acid, cold, fire, lightning, poison, thunder; bludgeoning, piercing, and slashing from nonmagical weapons","charmed, exhaustion, frightened, paralyzed, petrified, poisoned, unconscious",17.0,,10.0
+322,Elementalist,Medium,humanoid,dragonborn,lawful neutral,15,45,8,16,15,12,10,17,,"one of fire, lightning, cold, or poison (see Elemental Focus)",,,2.0,,1.8
+323,Elephant,Huge,beast,,unaligned,12,76,22,9,17,3,11,6,,,,,4.0,,6.86
+324,Elite Kobold,Small,humanoid,kobold,lawful neutral,14,26,10,17,14,12,14,10,,,,,1.0,,0.9
+325,Elk,Large,beast,,unaligned,10,13,16,10,12,2,10,6,,,,,0.25,,3.5
+326,Elophar,Large,undead,,chaotic evil,8,126,19,6,20,16,3,10,,,poison,poisoned,4.0,,3.5
+327,Elvish Veteran Archer,Medium,humanoid,elf,chaotic good or chaotic neutral,15,77,11,16,12,11,13,11,,,,,3.0,,1.8
+328,Emerald Eye,Tiny,construct,,chaotic evil,14,54,3,15,14,15,12,16,,"cold, fire; piercing damage",poison,"blinded, deafened, exhausted, paralyzed, petrified, poisoned, prone, unconscious",1.0,,0.6
+329,Emerald Order Cult Leader,Medium,humanoid,,lawful neutral or evil,14,117,10,10,14,15,20,15,,"cold, fire, lightning",,,8.0,,1.8
+330,Emperor Of The Ghouls,Medium,undead,,neutral evil,20,204,18,14,19,20,17,21,,"cold, necrotic","poison; bludgeoning, piercing, and slashing damage from nonmagical weapons.","charmed, exhaustion, frightened, poisoned",20.0,"The Emperor can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The Emperor regains spent legendary actions at the start of his turn.",1.8
+331,Empty Cloak,Medium,construct,,unaligned,13,45,18,14,10,10,10,1,,bludgeoning,poison,"charmed, exhaustion, frightened, paralyzed, petrified, poisoned",0.5,,1.8
+332,Enchanter,Medium,humanoid,elf,any alignment,12,58,10,14,10,19,13,19,,,,,7.0,,1.8
+333,Eonic Drifter,Medium,humanoid,human,chaotic neutral,13,65,9,14,14,18,11,13,,,,,1.0,,1.8
+334,Erina Defender,Small,humanoid,erina,neutral,15,44,11,14,14,13,12,11,,poison,,,1.0,,0.9
+335,Erina Scrounger,Small,humanoid,erina,neutral,12,22,9,12,14,13,10,11,,poison,,,0.25,,0.9
+336,Erinyes,Medium,fiend,devil,lawful evil,18,153,18,16,18,14,14,18,,"cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered","fire, poison",poisoned,12.0,,1.8
+337,Ettercap,Medium,monstrosity,,neutral evil,13,44,14,15,13,7,12,8,,,,,2.0,,1.8
+338,Ettin,Large,giant,,chaotic evil,12,85,21,8,17,6,10,8,,,,,4.0,,3.5
+339,Execrable Shrub,Medium,fiend,,neutral evil,14,40,12,14,10,7,14,10,,"piercing, poison",fire,poisoned,0.5,,1.8
+340,Exploding Toad,Tiny,monstrosity,,chaotic evil,12,2,1,13,11,4,8,3,,,fire,,0.25,,0.6
+341,Eye Golem,Large,construct,,unaligned,20,157,22,9,20,5,11,1,,,"fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine","charmed, exhausted, frightened, paralyzed, petrified, poisoned",11.0,,3.5
+342,Eye of the Gods,Small,celestial,,any alignment (as its creator deity),14,36,8,18,12,13,20,16,,"fire, radiant; bludgeoning, piercing, and slashing from nonmagical attacks","necrotic, poison","charmed, exhaustion, poisoned",1.0,,0.9
+343,Fang of the Great Wolf,Large,monstrosity,,neutral evil,14,65,16,13,13,9,13,8,,cold,,,3.0,,3.5
+344,Far Darrig,Small,fey,,neutral,14,104,15,16,17,11,15,17,,,,,3.0,,0.9
+345,Far Wanderer,Medium,aberration,,neutral,14,88,14,18,12,17,11,10,,cold,,"exhaustion, poisoned",3.0,,1.8
+346,Fate Eater,Medium,aberration,,neutral,16,182,18,12,14,18,16,9,,,,"charmed, unconscious",6.0,,1.8
+347,Fear Liath,Large,undead,,neutral evil,12,33,17,15,10,8,14,7,,,poison,"exhaustion, frightened, poisoned",2.0,,3.5
+348,Fear Smith,Medium,fey,,chaotic neutral,17,123,11,17,14,11,15,18,,"bludgeoning, piercing, and slashing from weapons that aren't made of cold iron",,"charmed, frightened",10.0,,1.8
+349,Fellforged,Medium,construct,,lawful evil,15,135,14,12,17,12,14,15,,"acid, cold, fire, lightning","necrotic, poison","charmed, exhaustion, poisoned",5.0,,1.8
+350,Fext,Medium,undead,,any alignment,17,60,14,16,1,14,12,18,,"bludgeoning, piercing, and slashing damage with nonmagical weapons",,"charmed, exhaustion, frightened, paralyzed, poisoned",6.0,,1.8
+351,Fey Drake,Small,dragon,,chaotic neutral,17,82,6,20,15,15,16,18,,,,,6.0,,0.9
+352,Feyward Tree,Huge,construct,,unaligned,17,94,26,10,18,2,11,6,,,"poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",8.0,,6.86
+353,Fidele Angel,Medium,celestial,,lawful good,16,104,20,18,14,14,16,18,,"fire, lightning, poison; bludgeoning, piercing, and slashing damage from nonmagical weapons","acid, cold","charmed, petrified, poisoned",5.0,,1.8
+354,Fierstjerren,Medium,undead,,neutral evil,14,105,16,15,16,14,11,12,,,"necrotic, poison","charmed, exhaustion, frightened, paralyzed, poisoned, unconscious",5.0,,1.8
+355,Fire Dancer Swarm,Medium,swarm of Tiny elementals,,neutral evil,15,90,10,20,16,6,10,7,,"bludgeoning, piercing, and slashing","fire, poison","exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned, unconscious",7.0,,1.8
+356,Fire Elemental,Large,elemental,,neutral,13,102,10,17,16,6,10,7,,"bludgeoning, piercing, and slashing from nonmagical weapons","fire, poison","exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious",5.0,,3.5
+357,Fire Giant,Huge,giant,,lawful evil,18,162,25,9,23,10,14,13,,,fire,,9.0,,6.86
+358,Fire Imp,Tiny,fiend,devil,lawful evil,13,14,5,14,12,10,10,14,,"cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silver","fire, poison",poisoned,0.5,,0.6
+359,Firebird,Small,celestial,,neutral good,16,99,12,19,14,16,15,21,,"lightning; bludgeoning, piercing, and slashing from nonmagical weapons",fire,"charmed, frightened, invisible",4.0,,0.9
+360,Firegeist,Small,elemental,,neutral evil,14,87,7,18,10,4,16,6,,,"fire, poison","exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious",2.0,,0.9
+361,Flab Giant,Large,giant,,chaotic evil,14,110,20,6,16,9,13,8,,,poison,poisoned,4.0,,3.5
+362,Flame Dragon Wyrmling,Medium,dragon,,chaotic evil,17,52,12,14,15,13,12,16,,,fire,,3.0,,1.8
+363,Flame Eater Swarm,Medium,beasts,,unaligned,12,33,3,15,12,2,14,4,,"bludgeoning, piercing, slashing",fire,"charmed, frightened, paralyzed, petrified, prone, restrained, stunned",2.0,,1.8
+364,Flame-Scourged Scion,Huge,aberration,,chaotic evil,16,125,19,17,22,16,6,15,,fire; slashing from nonmagical attacks,,"grappled, paralyzed, restrained",9.0,,6.86
+365,Flesh Golem,Medium,construct,,neutral,9,93,19,9,18,6,10,5,,,"lightning, poison; bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",5.0,,1.8
+366,Flesh Reaver,Medium,undead,,neutral evil,12,19,14,14,14,5,10,8,,necrotic,poison,"charmed, exhaustion, poisoned",0.5,,1.8
+367,Fleshpod Hornet,Large,beast,,unaligned,14,120,14,18,15,3,12,6,,,,,6.0,,3.5
+368,Flutterflesh,Large,undead,,chaotic evil,16,187,11,18,17,12,13,10,,"cold, lightning; bludgeoning, piercing, and slashing from nonmagical weapons","necrotic, poison","charmed, paralyzed, exhaustion, poison, stunned, unconscious",12.0,,3.5
+369,Flying Polyp,Huge,aberration,,chaotic evil,17,171,20,12,17,22,14,16,lightning,"acid, cold, fire, thunder; bludgeoning, piercing, and slashing from nonmagical attacks",,prone,11.0,,6.86
+370,Flying Snake,Tiny,beast,,unaligned,14,5,4,18,11,2,12,5,,,,,0.125,,0.6
+371,Flying Sword,Small,construct,,unaligned,17,17,12,15,11,1,5,1,,,"poison, psychic","blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned",0.25,,0.9
+372,Folk Of Leng,Medium,humanoid,,neutral evil,14,68,12,15,18,14,16,22,,cold,necrotic,frightened,2.0,,1.8
+373,Forest Drake,Small,dragon,,neutral,15,60,16,8,19,12,15,12,,,fire,"paralyzed, unconscious",2.0,,0.9
+374,Forest Marauder,Large,giant,,chaotic evil,15,114,21,10,18,6,10,7,,,,,4.0,,3.5
+375,Foxfire Ooze,Large,ooze,,unaligned,9,126,19,8,20,2,6,1,cold,"bludgeoning, piercing, and slashing from nonmagical attacks","acid, fire, lightning","blinded, charmed, deafened, exhaustion, frightened, prone",10.0,,3.5
+376,Foxin,Small,fey,,neutral,14,16,14,16,14,10,14,16,,,,charmed,0.5,,0.9
+377,Fractal Golem,Large,construct,,unaligned,18,8,16,12,16,6,8,1,,,"poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",8.0,,3.5
+378,Fragrite,Medium,elemental,shapechanger,chaotic neutral,14,91,16,13,15,6,8,8,,"fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks",poison,"exhaustion, paralyzed, petrified, poisoned, prone, restrained, unconscious",6.0,,1.8
+379,Fraughashar,Small,fey,,neutral evil,15,18,8,14,12,10,11,7,,,cold,,0.5,,0.9
+380,Frog,Tiny,beast,,unaligned,11,1,1,13,8,1,8,3,,,,,0.0,,0.6
+381,Frost Giant,Huge,giant,,neutral evil,15,138,23,9,21,9,10,12,,,cold,,8.0,,6.86
+382,Frostveil,Medium,plant,,unaligned,16,67,20,20,16,1,11,1,,bludgeoning and piercing from nonmagical weapons,cold,"blinded, charmed, deafened, frightened, prone",4.0,,1.8
+383,Fulad-Zereh,Huge,fiend,demon,chaotic evil,18,115,19,11,20,17,15,17,,"cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks",poison,poisoned,9.0,,6.86
+384,Fulminar,Large,elemental,,neutral,15,112,10,20,14,8,17,10,,"lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks",poison,"exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious",9.0,,3.5
+385,Gaki,Medium,undead,,chaotic evil,14,75,7,18,17,10,12,16,,"acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks","cold, necrotic, poison","charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained",8.0,,1.8
+386,Gargoctopus,Large,monstrosity,,neutral,13,104,18,13,12,19,16,14,,,,,5.0,,3.5
+387,Gargoyle,Medium,elemental,,chaotic evil,15,52,15,11,16,6,11,7,,"bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine",poison,"exhaustion, petrified, poisoned",2.0,,1.8
+388,Garroter Crab,Tiny,beast,,unaligned,13,18,7,14,14,1,10,2,,,psychic,"charmed, frightened",0.25,,0.6
+389,Gbahali (Postosuchus),Huge,beast,,unaligned,15,126,21,14,19,2,13,7,,,,,6.0,,6.86
+390,Gearforged Templar,Medium,humanoid,gearforged,lawful neutral,18,71,20,9,15,12,16,10,,"bludgeoning, piercing, and slashing damage from nonmagical weapons",poison,"charmed, frightened, exhaustion, poisoned",6.0,,1.8
+391,Gelatinous Cube,Large,ooze,,unaligned,6,84,14,3,20,1,6,1,,,,"blinded, charmed, deafened, exhaustion, frightened, prone",2.0,,3.5
+392,Gerridae,Large,fey,,neutral,14,77,16,15,17,2,13,7,,,,,1.0,,3.5
+393,Ghast,Medium,undead,,chaotic evil,13,36,16,17,10,11,10,8,,,necrotic,poisoned,2.0,,1.8
+394,Ghast of Leng,Large,aberration,,neutral evil,14,127,15,17,14,4,9,6,radiant,cold,,,3.0,,3.5
+395,Ghost,Medium,undead,,any alignment,11,45,7,13,10,10,12,17,,"acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical weapons","cold, necrotic, poison","charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained",4.0,,1.8
+396,Ghost Boar,Large,monstrosity,,unaligned,13,68,18,10,16,7,12,7,,,,,3.0,,3.5
+397,Ghost Dragon,Large,undead,,any alignment,14,126,10,19,10,14,16,19,,"acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks","cold, necrotic, poison","charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained",11.0,,3.5
+398,Ghost Dwarf,Medium,undead,,neutral evil,14,81,4,14,10,10,14,15,,"acid, cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks","necrotic, poison","charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained",6.0,,1.8
+399,Ghost Knight,Medium,undead,,lawful evil,17,97,17,15,14,8,10,7,,necrotic,poison,"charmed, exhaustion, poisoned",6.0,,1.8
+400,Ghostwalk Spider,Large,monstrosity,,neutral evil,15,119,15,20,17,9,14,8,,,poison,poisoned,9.0,,3.5
+401,Ghoul,Medium,undead,,chaotic evil,12,22,13,15,10,7,10,6,,,,poisoned,1.0,,1.8
+402,"Ghoul, Darakhul",Medium,undead,,neutral evil,16,78,16,17,14,14,12,12,,necrotic,poison,"charmed, exhaustion, poisoned",3.0,,1.8
+403,"Ghoul, Imperial",Medium,undead,,lawful evil,16,93,16,14,12,13,14,14,,,poison,"charmed, exhaustion, poisoned",4.0,,1.8
+404,"Ghoul, Iron",Medium,undead,,lawful evil,16,143,18,16,14,14,14,14,,,poison,"charmed, exhaustion, poisoned",5.0,,1.8
+405,Ghoulsteed,Large,undead,,neutral evil,13,85,18,10,16,6,10,6,,,poison,poisoned,3.0,,3.5
+406,Giant Albino Bat,Huge,monstrosity,,neutral evil,15,76,19,16,15,7,14,6,,,,,3.0,,6.86
+407,Giant Ant,Large,beast,,unaligned,14,52,15,13,15,1,9,2,,,,,2.0,,3.5
+408,Giant Ant Queen,Large,beast,,unaligned,15,85,17,13,16,2,11,4,,,,,4.0,,3.5
+409,Giant Ape,Huge,beast,,unaligned,12,157,23,14,18,7,12,7,,,,,7.0,,6.86
+410,Giant Badger,Medium,beast,,unaligned,10,13,13,10,15,2,12,5,,,,,0.25,,1.8
+411,Giant Bat,Large,beast,,unaligned,13,22,15,16,11,2,12,6,,,,,0.25,,3.5
+412,Giant Boar,Large,beast,,unaligned,12,42,17,10,16,2,7,5,,,,,2.0,,3.5
+413,Giant Centipede,Small,beast,,unaligned,13,4,5,14,12,1,7,3,,,,,0.25,,0.9
+414,Giant Constrictor Snake,Huge,beast,,unaligned,12,60,19,14,12,1,10,3,,,,,2.0,,6.86
+415,Giant Crab,Medium,beast,,unaligned,15,13,13,15,11,1,9,3,,,,,0.125,,1.8
+416,Giant Crocodile,Huge,beast,,unaligned,14,85,21,9,17,2,10,7,,,,,5.0,,6.86
+417,Giant Eagle,Large,beast,,neutral good,13,26,16,17,13,8,14,10,,,,,1.0,,3.5
+418,Giant Elk,Huge,beast,,unaligned,15,42,19,16,14,7,14,10,,,,,2.0,,6.86
+419,Giant Fire Beetle,Small,beast,,unaligned,13,4,8,10,12,1,7,3,,,,,0.0,,0.9
+420,Giant Frog,Medium,beast,,unaligned,11,18,12,13,11,2,10,3,,,,,0.25,,1.8
+421,Giant Goat,Large,beast,,unaligned,11,19,17,11,12,3,12,6,,,,,0.5,,3.5
+422,Giant Hyena,Large,beast,,unaligned,12,45,16,14,14,2,12,7,,,,,1.0,,3.5
+423,Giant Lizard,Large,beast,,unaligned,12,19,15,12,13,2,10,5,,,,,0.25,,3.5
+424,Giant Moth,Small,beast,,unaligned,11,7,10,12,10,3,10,7,,,,,0.125,,0.9
+425,Giant Octopus,Large,beast,,unaligned,11,52,17,13,13,4,10,4,,,,,1.0,,3.5
+426,Giant Owl,Large,beast,,neutral,12,19,13,15,12,8,13,10,,,,,0.25,,3.5
+427,Giant Poisonous Snake,Medium,beast,,unaligned,14,11,10,18,13,2,10,3,,,,,0.25,,1.8
+428,Giant Rat,Small,beast,,unaligned,12,7,7,15,11,2,10,4,,,,,0.125,,0.9
+429,Giant Rat (Diseased),Small,beast,,unaligned,12,7,7,15,11,2,10,4,,,,,0.125,,0.9
+430,Giant Scorpion,Large,beast,,unaligned,15,52,15,13,15,1,9,3,,,,,3.0,,3.5
+431,Giant Sea Horse,Large,beast,,unaligned,13,16,12,15,11,2,12,5,,,,,0.5,,3.5
+432,Giant Shark,Huge,beast,,unaligned,13,126,23,11,21,1,10,5,,,,,5.0,,6.86
+433,Giant Shark Bowl,Huge,ooze,,unaligned,6,172,23,3,20,1,10,5,,"acid, fire, slashing",lightning,"blinded, charmed, deafened, exhaustion, frightened, prone",8.0,,6.86
+434,Giant Sloth,Large,beast,,unaligned,15,168,19,10,19,3,12,10,,poison,,poisoned,7.0,,3.5
+435,Giant Spider,Large,beast,,unaligned,14,26,14,16,12,2,11,4,,,,,1.0,,3.5
+436,Giant Toad,Large,beast,,unaligned,11,39,15,13,13,2,10,3,,,,,1.0,,3.5
+437,Giant Vampire Bat,Large,beast,,unaligned,13,60,16,16,14,2,12,6,,,,,2.0,,3.5
+438,Giant Vulture,Large,beast,,neutral evil,10,22,15,10,15,6,12,7,,,,,1.0,,3.5
+439,Giant Wasp,Medium,beast,,unaligned,12,13,10,14,10,1,10,3,,,,,0.5,,1.8
+440,Giant Weasel,Medium,beast,,unaligned,13,9,11,16,10,4,12,5,,,,,0.125,,1.8
+441,Giant Wolf Spider,Medium,beast,,unaligned,13,11,12,16,13,3,12,4,,,,,0.25,,1.8
+442,Gibbering Mouther,Medium,aberration,,neutral,9,67,10,8,16,3,10,6,,,,prone,2.0,,1.8
+443,Gilded Devil,Medium,fiend,devil,lawful evil,16,112,17,15,17,15,18,17,,"cold; bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered","fire, poison",poisoned,7.0,,1.8
+444,Glabrezu,Large,fiend,demon,chaotic evil,17,157,20,15,21,19,17,16,,"cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical weapons",poison,poisoned,9.0,,3.5
+445,Gladiator,Medium,humanoid,any race,any alignment,16,112,18,15,16,10,12,15,,,,,5.0,,1.8
+446,Glass Gator,Large,beast,,unaligned,15,45,15,14,12,4,10,5,,,,,1.0,,3.5
+447,Glass Golem,Small,construct,,unaligned,12,45,10,15,13,3,8,1,bludgeoning,piercing and slashing from nonmagical attacks not made with adamantine,"poison, psychic","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",2.0,,0.9
+448,Gloomflower,Tiny,plant,,unaligned,12,44,10,6,16,1,6,18,,,,"blinded, deafened, frightened",3.0,,0.6
+449,Gnarljak,Small,construct,,unaligned,16,63,13,22,11,2,14,1,,"cold, acid, fire; bludgeoning, piercing, and slashing from nonmagical weapons","necrotic, poison, psychic","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",6.0,,0.9
+450,Gnoll,Medium,humanoid,gnoll,chaotic evil,15,22,14,12,11,6,10,7,,,,,0.5,,1.8
+451,Gnoll Havoc Runner,Medium,humanoid,gnoll,chaotic evil,15,58,16,14,14,8,12,9,,,,,3.0,,1.8
+452,Gnoll Slaver,Medium,humanoid,gnoll,chaotic evil,15,71,18,15,14,12,11,12,,,,,3.0,,1.8
+453,Goat,Medium,beast,,unaligned,10,4,12,10,11,2,10,5,,,,,0.0,,1.8
+454,Goat-Man,Medium,monstrosity,,chaotic evil,14,65,19,14,14,10,13,8,,"bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered",,"charmed, frightened",3.0,,1.8
+455,Goblin,Small,humanoid,goblinoid,neutral evil,15,7,8,14,10,10,8,8,,,,,0.25,,0.9
+456,Gold Dragon Wyrmling,Medium,dragon,,lawful good,17,60,19,14,17,14,11,16,,,fire,,3.0,,1.8
+457,Goliath Longlegs,Gargantuan,monstrosity,,unaligned,16,162,18,15,16,4,13,3,,,poison,"charmed, frightened, poisoned",7.0,,10.0
+458,Goreling,Small,undead,,unaligned,12,11,12,14,14,1,5,1,,,"necrotic, poison",poisoned,0.25,,0.9
+459,Gorgon,Large,monstrosity,,unaligned,19,114,20,11,18,2,12,7,,,,petrified,5.0,,3.5
+460,Grave Behemoth,Huge,undead,,neutral evil,9,210,22,8,19,13,10,8,,necrotic,poison,"charmed, frightened, poisoned",10.0,,6.86
+461,Gray Ooze,Medium,ooze,,unaligned,8,22,12,6,16,1,6,2,,"acid, cold, fire",,"blinded, charmed, deafened, exhaustion, frightened, prone",0.5,,1.8
+462,Gray Thirster,Medium,undead,,neutral evil,13,39,12,16,15,6,12,14,,"bludgeoning, necrotic","fire, poison","charmed, exhaustion, frightened, poisoned",2.0,,1.8
+463,Great Mandrake,Tiny,plant,,unaligned,11,44,14,8,16,4,11,12,,,poison,"exhaustion, poisoned",1.0,,0.6
+464,Greater Death Butterfly Swarm,Huge,swarm of tiny beasts,,chaotic evil,15,84,1,16,10,1,15,12,,"bludgeoning, piercing, and slashing",,"charmed, frightened, paralyzed, petrified, prone, restrained, petrified",6.0,,6.86
+465,Greater Rakshasa,Medium,fiend,,lawful evil,18,144,14,18,18,15,16,20,piercing from magic weapons wielded by good creatures,,"bludgeoning, piercing, and slashing from nonmagical attacks",,15.0,"The greater rakshasa can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The greater rakshasa regains spent legendary actions at the start of its turn.",1.8
+466,Greater Scrag,Large,monstrosity,,chaotic evil,16,127,20,10,17,10,10,11,,,,,7.0,,3.5
+467,Green Abyss Orc,Medium,humanoid,orc,chaotic evil,13,15,14,16,16,9,11,10,,,poison,poisoned,0.5,,1.8
+468,Green Dragon Wyrmling,Medium,dragon,,lawful evil,17,38,15,12,13,14,11,13,,,poison,poisoned,2.0,,1.8
+469,Green Hag,Medium,fey,,neutral evil,17,82,18,12,16,13,14,14,,,,,3.0,,1.8
+470,Green Knight of the Woods,Medium,fey,,lawful neutral,20,78,18,10,14,10,12,16,,"bludgeoning, piercing, and slashing from nonmagical attacks not made with cold iron",,"charmed, frightened",6.0,,1.8
+471,Grick,Medium,monstrosity,,neutral,14,27,14,14,11,3,14,5,,"bludgeoning, piercing, and slashing damage from nonmagical weapons",,,2.0,,1.8
+472,Griffon,Large,monstrosity,,unaligned,12,59,18,15,16,2,13,8,,,,,2.0,,3.5
+473,Grim Jester,Medium,undead,,chaotic evil,18,136,14,22,18,16,16,20,,cold,"necrotic, poison; bludgeoning, piercing, and slashing from nonmagical weapons","charmed, exhaustion, frightened, paralyzed, poisoned",11.0,,1.8
+474,Grimlock,Medium,humanoid,grimlock,neutral evil,11,11,16,12,12,9,8,6,,,,blinded,0.25,,1.8
+475,Grindylow,Medium,aberration,,chaotic evil,13,27,13,14,12,8,14,9,,,,,1.0,,1.8
+476,Guard,Medium,humanoid,any race,any alignment,16,11,13,12,12,10,11,10,,,,,0.125,,1.8
+477,Guardian Naga,Large,monstrosity,,lawful good,18,127,19,18,16,16,19,18,,,poison,"charmed, poisoned",10.0,,3.5
+478,Gug,Huge,giant,,neutral evil,17,270,24,10,25,10,8,14,,,poison,"confusion, exhaustion, paralysis, poisoned",12.0,"A gug can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. A gug regains spent legendary actions at the start of its turn.",6.86
+479,Gugalanna,Huge,celestial,,chaotic good,18,253,24,16,20,10,20,18,,necrotic,"fire, radiant; bludgeoning, piercing, and slashing from nonmagical attacks","charmed, exhaustion, frightened",21.0,"Gugalanna can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Gugalanna regains spent legendary actions at the start of his turn.",6.86
+480,Gulon,Large,monstrosity,,unaligned,14,110,19,14,16,5,12,5,,,poison,poisoned,6.0,,3.5
+481,Gumienniki,Small,fiend,shapechanger,neutral evil,13,22,12,16,13,14,10,12,,"cold, fire, lightning",poison,poisoned,1.0,,0.9
+482,Gynosphinx,Large,monstrosity,,lawful neutral,17,136,18,15,16,18,18,18,,"bludgeoning, piercing, and slashing from nonmagical weapons",psychic,"charmed, frightened",11.0,"The sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The sphinx regains spent legendary actions at the start of its turn.",3.5
+483,Gypsosphinx,Large,monstrosity,,neutral evil,17,171,20,14,18,18,18,18,,"bludgeoning, piercing, and slashing from nonmagical weapons","psychic, poison",poisoned,14.0,"The sphinx can take 3 legendary actions, choosing from the options below. Only one option can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn.",3.5
+484,Hair Golem,Small,construct,,unaligned,13,13,10,17,13,3,8,1,slashing,bludgeoning and piercing from nonmagical attacks not made with adamantine,"poison, psychic","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",0.25,,0.9
+485,Half-Red Dragon Veteran,Medium,humanoid,human,any alignment,18,65,16,13,14,10,11,10,,fire,,,5.0,,1.8
+486,Hallowed Reed,Medium,celestial,,neutral good,13,22,14,10,10,7,14,10,,"bludgeoning, piercing",radiant,,0.5,,1.8
+487,Harpy,Medium,monstrosity,,chaotic evil,11,38,12,13,12,7,10,13,,,,,1.0,,1.8
+488,Haugbui,Medium,undead,,lawful neutral,18,136,18,17,18,15,20,16,,"cold, lightning, necrotic","poison; bludgeoning, piercing, and slashing from nonmagical weapons","charmed, exhaustion, frightened, paralyzed, poisoned",13.0,,1.8
+489,Haunted Giant,Huge,giant,,chaotic neutral,20,126,21,8,19,5,9,6,,,,,6.0,,6.86
+490,Hawk,Tiny,beast,,unaligned,13,1,5,16,8,2,14,6,,,,,0.0,,0.6
+491,Heavy Cavalry,Medium,humanoid,dragonborn,lawful neutral,19,75,15,12,17,10,14,8,,fire,,,2.0,,1.8
+492,Hell Hound,Medium,fiend,,lawful evil,15,45,17,12,14,6,13,6,,,fire,,3.0,,1.8
+493,Herald Of Blood,Huge,fiend,,neutral evil,15,115,22,12,20,14,17,16,,"piercing, lightning","fire, poison","exhaustion, frightened, paralyzed, petrified, poisoned",12.0,"A herald of blood can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. A herald of blood regains spent legendary actions at the start of its turn.",6.86
+494,Herald Of Darkness,Large,fiend,,neutral evil,15,105,20,14,20,12,15,20,,"bludgeoning, thunder","cold, lightning, necrotic, poison","exhaustion, frightened, paralyzed, petrified, poisoned",7.0,,3.5
+495,Hezrou,Large,fiend,demon,chaotic evil,16,136,19,17,20,5,12,13,,"cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical weapons",poison,poisoned,8.0,,3.5
+496,Hierophant Lich,Medium,undead,,any evil alignment,14,91,12,13,15,12,20,17,,"cold, lightning, necrotic","poison; bludgeoning, piercing, and slashing from nonmagical attacks","charmed, exhaustion, frightened, paralyzed, poisoned",9.0,"The hierophant lich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The lich regains spent legendary actions at the start of its turn.",1.8
+497,Hill Giant,Huge,giant,,chaotic evil,13,105,21,8,19,5,9,6,,,,,5.0,,6.86
+498,Hippogriff,Large,monstrosity,,unaligned,11,19,17,13,13,2,12,8,,,,,1.0,,3.5
+499,Hoard Golem,Huge,construct,,unaligned,18,161,22,15,20,3,11,1,,,"poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine","charmed, exhausted, frightened, paralyzed, petrified, poisoned",12.0,,6.86
+500,Hobgoblin,Medium,humanoid,goblinoid,lawful evil,18,11,13,12,12,10,10,9,,,,,0.5,,1.8
+501,Homunculus,Tiny,construct,,neutral,13,5,4,15,11,10,10,7,,,poison,"charmed, poisoned",0.0,,0.6
+502,Horakh,Medium,monstrosity,,neutral,17,161,18,19,19,8,15,10,,,,,9.0,,1.8
+503,Horned Devil,Large,fiend,devil,lawful evil,18,148,22,17,21,12,16,17,,"cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered","fire, poison",poisoned,11.0,,3.5
+504,Horned Serpent,Large,monstrosity,,unaligned,18,210,22,16,20,4,14,16,,fire,"necrotic, poison",poisoned,12.0,,3.5
+505,Hound Of The Night,Large,monstrosity,,unaligned,16,112,20,16,14,9,14,10,,,cold,,5.0,,3.5
+506,Hound of Tindalos,Medium,aberration,,neutral evil,17,93,18,22,18,14,16,18,,necrotic,"cold, psychic, poison","exhaustion, poisoned",8.0,,1.8
+507,Hraesvelgr The Corpse Swallower,Huge,giant,shapechanger,"titan), neutral",19,241,25,10,20,16,17,20,,"lightning, thunder","cold; bludgeoning, piercing, and slashing from nonmagical weapons",exhaustion,19.0,"Hraesvelgr can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Hraesvelgr regains spent legendary actions at the start of his turn.",6.86
+508,Hulking Whelp,Small,fey,shapechanger,chaotic neutral,15,94,21,10,18,7,14,9,,"bludgeoning, piercing, and slashing from nonmagical weapons",,,5.0,,0.9
+509,Hundun,Large,celestial,,chaotic good,18,153,20,14,16,4,20,18,,"lightning, thunder; bludgeoning, piercing, and slashing from nonmagical weapons","acid, psychic","blinded, charmed, deafened, exhaustion, frightened, stunned, unconscious",10.0,,3.5
+510,Hunter Shark,Large,beast,,unaligned,12,45,18,13,15,1,10,4,,,,,2.0,,3.5
+511,Hydra,Huge,monstrosity,,unaligned,15,172,20,12,20,2,10,7,,,,,8.0,,6.86
+512,Hyena,Medium,beast,,unaligned,11,5,11,13,12,2,12,5,,,,,0.0,,1.8
+513,Ia'affrat,Large,swarm of Tiny elementals,,lawful evil,17,170,3,21,16,20,18,23,,,"fire, poison; bludgeoning, piercing, slashing","charmed, frightened, paralyzed, petrified, prone, poisoned, restrained, stunned",15.0,,3.5
+514,Ice Devil,Large,fiend,devil,lawful evil,18,180,21,14,18,18,15,18,,"bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered","fire, poison",poisoned,14.0,,3.5
+515,Ice Maiden,Medium,fey,,lawful evil,16,84,12,17,15,19,13,23,,"bludgeoning, piercing, and slashing from nonmagical weapons",cold,,6.0,,1.8
+516,Ice Mephit,Small,elemental,,neutral evil,11,21,7,13,10,9,11,12,"bludgeoning, fire",,"cold, poison",poisoned,0.5,,0.9
+517,Ichneumon,Large,monstrosity,,unaligned,16,123,22,18,18,6,14,12,,"acid, cold, fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks",,,11.0,,3.5
+518,Idolic Deity,Small,construct,,neutral evil,17,90,14,20,18,10,11,20,,"cold; bludgeoning, piercing, and slashing from nonmagical weapons",poison,"charmed, exhaustion, frightened, paralyzed, petrified, poisoned",8.0,,0.9
+519,Ijiraq,Medium,fey,,chaotic neutral,14,127,17,13,19,11,15,9,,"bludgeoning, piercing, and slashing from nonmagical attacks",,,7.0,,1.8
+520,Imp,Tiny,fiend,devil,lawful evil,13,10,6,17,13,11,12,14,,"cold; bludgeoning, piercing, and slashing from nonmagical/nonsilver weapons","fire, poison",poisoned,1.0,,0.6
+521,Imy-Ut Ushabti,Medium,monstrosity,,neutral,15,97,17,14,15,6,10,5,,bludgeoning,,"exhaustion, frightened",3.0,,1.8
+522,Incinis,Large,elemental,,neutral evil,17,171,12,20,18,10,16,10,,"bludgeoning, piercing, and slashing from nonmagical attacks","fire, poison","exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious",10.0,,3.5
+523,Infernal Knight,Medium,fiend,devil,lawful evil,18,247,24,14,20,17,21,20,,"cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered","fire, necrotic, poison","charmed, exhaustion, frightened, poisoned",16.0,,1.8
+524,Ink Devil,Small,fiend,devil,lawful evil,14,54,12,18,12,20,8,18,,"cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered","fire, poison",poisoned,2.0,,0.9
+525,Ink Guardian,Large,ooze,,unaligned,8,102,16,7,16,6,6,1,,"fire, slashing, thunder",acid,"blinded, charmed, deafened, exhaustion, frightened, prone",4.0,,3.5
+526,Inkling,Tiny,construct,,unaligned,12,10,4,14,10,14,12,10,,,,,0.25,,0.6
+527,Invisible Stalker,Medium,elemental,,neutral,14,104,16,19,14,10,15,11,,"bludgeoning, piercing, and slashing from nonmagical weapons",poison,"exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious",6.0,,1.8
+528,Iron Golem,Large,construct,,unaligned,20,210,24,9,20,3,11,1,,,"fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",16.0,,3.5
+529,Iron Sphere,Small,construct,,unaligned,16,60,16,13,18,4,10,3,,"cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks","lightning, necrotic, poison, psychic, radiant","charmed, exhaustion, frightened, poisoned, prone",5.0,,0.9
+530,Isonade,Gargantuan,monstrosity,,chaotic neutral,18,222,30,14,26,6,18,8,,,ability damage/drain,,14.0,,10.0
+531,J'ba Fofi Spider,Large,beast,,unaligned,18,75,17,17,15,4,13,6,,,,,3.0,,3.5
+532,Jaanavar Jal,Huge,monstrosity,,unaligned,15,172,20,14,20,6,13,10,cold,,fire,,7.0,,6.86
+533,Jackal,Small,beast,,unaligned,12,3,8,15,11,3,12,6,,,,,0.0,,0.9
+534,Jaculus,Small,dragon,,neutral evil,18,65,14,18,17,13,13,13,,"acid, lightning",,,3.0,,0.9
+535,Jiangshi,Medium,undead,,chaotic evil,15,117,17,10,14,6,12,14,fire,"necrotic; bludgeoning, piercing, and slashing from nonmagical attacks",poison,"blinded, exhaustion, poisoned",6.0,,1.8
+536,Jinmenju,Huge,plant,,chaotic neutral,14,126,16,1,19,17,8,22,,,"bludgeoning, piercing, and slashing from nonmagical attacks","exhaustion, prone",9.0,"The jinmenju can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The jinmenju regains spent legendary actions at the start of its turn.",6.86
+537,Jotun Giant,Gargantuan,giant,,chaotic neutral,20,407,30,8,26,18,20,14,,"bludgeoning, piercing, and slashing from nonmagical weapons",,,22.0,"The Jotun giant can take 1 legendary action, and only at the end of another creature's turn. The giant regains the spent legendary action at the start of its turn.",10.0
+538,Junk Shaman,Small,humanoid,kobold,lawful neutral,12,42,6,14,11,11,17,9,,,,,2.0,,0.9
+539,Kalke,Small,fiend,,neutral evil,14,9,8,17,12,13,7,13,,,,,0.25,,0.9
+540,Kallikantzaros,Small,fey,,chaotic evil,13,59,15,13,10,6,8,10,,,,,2.0,,0.9
+541,Kapi,Medium,humanoid,simian,chaotic good,14,13,14,18,10,11,13,9,,,,,0.5,,1.8
+542,Kappa,Small,fey,,chaotic neutral or chaotic evil,16,49,18,14,12,7,14,8,,,,,2.0,,0.9
+543,Karakura,Medium,fiend,shapechanger,neutral evil,15,76,7,18,11,15,13,20,radiant,"cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks",poison,poisoned,5.0,,1.8
+544,Keg Golem,Medium,construct,,unaligned,11,45,16,10,16,8,7,3,,"bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine","poison, psychic","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",3.0,,1.8
+545,Kikimora,Medium,fey,,chaotic neutral,15,65,13,18,15,12,16,21,,"bludgeoning, piercing, and slashing from",,,5.0,,1.8
+546,Killer Whale,Huge,beast,,unaligned,12,90,19,10,13,3,12,7,,,,,3.0,,6.86
+547,King Kobold,Small,humanoid,kobold,lawful neutral,15,112,8,20,12,14,14,15,,,,,6.0,,0.9
+548,Kinnara,Medium,celestial,,lawful good,14,65,12,15,14,13,16,19,,"radiant; bludgeoning, piercing, and slashing from nonmagical attacks",,"charmed, exhaustion, frightened",3.0,,1.8
+549,Kishi Demon,Medium,fiend,demon,chaotic evil,18,119,19,20,19,15,11,22,,"cold, fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical weapons",poison,poisoned,8.0,,1.8
+550,Kitsune,Small,fey,shapechanger,chaotic neutral,12,49,8,15,11,12,15,14,,,,,2.0,,0.9
+551,Knight,Medium,humanoid,any race,any alignment,18,52,16,11,14,11,11,15,,,,,3.0,,1.8
+552,Knight of the Road,Medium,humanoid,elf,lawful evil,16,117,14,18,14,14,12,16,,,,,5.0,,1.8
+553,Kobold,Small,humanoid,kobold,lawful evil,12,5,7,15,9,8,7,8,,,,,0.125,,0.9
+554,Kobold Alchemist,Small,humanoid,kobold,lawful neutral,15,44,7,16,15,16,9,8,,,poison,poisoned,2.0,,0.9
+555,Kobold Chieftain,Small,humanoid,kobold,lawful evil,17,82,10,17,14,11,13,14,,,,"charmed, frightened",4.0,,0.9
+556,Kobold Trapsmith,Small,humanoid,,lawful neutral,14,36,7,16,12,16,13,8,,,,,1.0,,0.9
+557,Kongamato,Large,beast,,unaligned,16,112,19,18,14,2,10,7,,,,,5.0,,3.5
+558,Koralk (Harvester Devil),Large,fiend,devil,lawful evil,15,136,16,13,17,10,11,13,,"cold; bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered","fire, poison",poisoned,11.0,,3.5
+559,Korrigan,Small,fey,,chaotic neutral,14,66,11,16,14,10,14,17,,,,"charmed, exhaustion",3.0,,0.9
+560,Koschei,Medium,fiend,,neutral evil,18,135,22,12,17,17,13,21,,"cold, lightning","necrotic; bludgeoning, piercing, and slashing damage from nonmagical weapons","charmed, exhaustion, frightened",17.0,"Koschei can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Koschei regains spent legendary actions at the start of its turn.",1.8
+561,Kot Bayun,Medium,monstrosity,,neutral,15,44,16,16,13,12,16,17,,,,,2.0,,1.8
+562,Krake Spawn,Huge,monstrosity,,neutral evil,16,150,24,12,22,17,15,18,,,"cold, poison, psychic","charmed, poisoned",9.0,,6.86
+563,Kraken,Gargantuan,monstrosity,titan,chaotic evil,18,472,30,11,25,22,18,20,,,"lightning; bludgeoning, piercing, and slashing from nonmagical weapons","frightened, paralyzed",23.0,"The kraken can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The kraken regains spent legendary actions at the start of its turn.",10.0
+564,Kryt,Medium,humanoid,kryt,neutral evil,15,120,20,10,16,6,18,6,,,,exhaustion,5.0,,1.8
+565,Kuunganisha,Small,fiend,,any evil,13,17,6,17,11,10,12,13,,"fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks not made with silver",poison,poisoned,2.0,,0.9
+566,Külmking,Large,undead,,chaotic evil,14,127,17,15,16,12,18,17,,"cold, lightning; bludgeoning, piercing, and slashing from nonmagical attacks","necrotic, poison","charmed, exhaustion, poisoned",9.0,,3.5
+567,Labyrinth Keeper,Large,monstrosity,,chaotic evil,15,119,18,11,16,10,12,16,,,,,5.0,,3.5
+568,Lady in White,Medium,undead,,any alignment,12,49,6,14,10,10,11,18,,"acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks","cold, necrotic, poison","charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained",2.0,,1.8
+569,Laestrigonian Giant,Large,giant,,chaotic evil,13,95,20,14,18,9,11,8,,,,,4.0,,3.5
+570,Lake Troll,Large,giant,,chaotic evil,15,126,20,13,20,8,10,6,,,,,7.0,,3.5
+571,Lamassu,Large,celestial,,lawful good,17,147,18,14,20,17,18,16,,"radiant; bludgeoning, piercing, and slashing from nonmagical attacks",,"charmed, exhaustion, frightened",10.0,"The lamassu can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The lamassu regains spent legendary actions at the start of its turn.",3.5
+572,Lamia,Large,monstrosity,,chaotic evil,13,97,16,13,15,14,15,16,,,,,4.0,,3.5
+573,Lantern Dragonette,Tiny,dragon,,lawful neutral,13,28,7,12,13,16,13,12,,,,"paralyzed, unconscious",0.5,,0.6
+574,Lemure,Medium,fiend,devil,lawful evil,7,13,10,5,11,1,11,3,,cold,"fire, poison","charmed, frightened, poisoned",0.0,,1.8
+575,Lemurfolk,Small,humanoid,lemurfolk,neutral,13,14,10,15,11,12,10,8,,,,,0.25,,0.9
+576,Lemurfolk Greyfur,Small,humanoid,lemurfolk,neutral,13,67,9,16,12,16,12,10,,,,,4.0,,0.9
+577,Leonino,Tiny,beast,,unaligned,13,13,10,16,14,8,8,12,,,,,0.125,,0.6
+578,Leshy,Medium,monstrosity,,chaotic neutral,14,84,16,12,14,14,15,16,,,,,1.0,,1.8
+579,Lesser Scrag,Medium,monstrosity,,chaotic evil,13,45,18,10,15,8,10,9,,,,,2.0,,1.8
+580,Library Automaton,Small,construct,,lawful neutral,13,7,8,13,10,14,12,8,,,poison,"charmed, poisoned",0.5,,0.9
+581,Lich,Medium,undead,,any evil alignment,17,135,11,16,16,20,14,16,,"cold, lightning, necrotic","poison; bludgeoning, piercing, and slashing from nonmagical weapons","charmed, exhaustion, frightened, paralyzed, poisoned",21.0,"The lich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The lich regains spent legendary actions at the start of its turn.",1.8
+582,Lich Hound,Medium,undead,,neutral evil,14,119,10,18,18,6,10,16,,piercing and bludgeoning from nonmagical weapons,poison,"exhaustion, poisoned",4.0,,1.8
+583,Light Cavalry,Medium,humanoid,dragonborn,lawful neutral,14,39,15,12,15,8,14,9,,fire,,,1.0,,1.8
+584,Light Dragon Wyrmling,Medium,dragon,,neutral good,13,39,14,10,15,12,14,13,,"bludgeoning, piercing, and slashing from nonmagical attacks",radiant,blinded,2.0,,1.8
+585,Likho,Medium,monstrosity,,chaotic evil,15,90,16,18,16,13,16,21,,,,,6.0,,1.8
+586,Lindwurm,Large,dragon,,neutral evil,15,136,18,20,16,6,12,8,,,cold,"paralyzed, prone, unconscious",5.0,,3.5
+587,Lion,Large,beast,,unaligned,12,26,17,15,13,3,12,8,,,,,1.0,,3.5
+588,Liosalfar,Large,elemental,,neutral,17,110,10,25,10,18,18,12,,"acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical weapons","poison, psychic, radiant","blinded, charmed, exhaustion (see Lightform special ability), grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious",8.0,,3.5
+589,Living Shade,Medium,fey,,neutral,12,18,6,14,10,9,10,12,radiant,"acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks","necrotic, poison","exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained",0.25,,1.8
+590,Living Star,Huge,celestial,,any alignment,19,207,24,22,21,21,19,22,,"bludgeoning, piercing, and slashing from nonmagical attacks","necrotic, poison, radiant","charmed, frightened, poisoned, stunned",19.0,,6.86
+591,Living Wick,Small,construct,,unaligned,13,28,10,10,10,5,5,5,,,"poison, psychic","blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, unconscious",0.25,,0.9
+592,Lizard,Tiny,beast,,unaligned,10,2,2,11,10,1,8,3,,,,,0.0,,0.6
+593,Lizardfolk,Medium,humanoid,lizardfolk,neutral,15,22,15,10,13,7,12,7,,,,,0.5,,1.8
+594,Lord Of The Hunt,Medium,fey,,lawful neutral,18,229,21,18,19,14,18,15,,"bludgeoning, piercing, and slashing from weapons that aren't made of cold iron","cold, poison","exhaustion, charmed, frightened, poisoned",18.0,"The Lord of the Hunt can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The Lord of the Hunt regains spent legendary actions at the start of his turn.",1.8
+595,Lord Zombie,Medium,undead,,neutral evil,15,82,16,14,16,10,13,15,,"bludgeoning, piercing, and slashing from nonmagical attacks not made with silver","necrotic, poison","exhaustion, poisoned",5.0,"The zombie lord can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn.",1.8
+596,Lorelei,Medium,fey,,chaotic evil,15,76,10,21,18,16,16,23,,,,,5.0,,1.8
+597,Lost Minotaur,Large,undead,,neutral evil,16,114,20,10,18,5,12,8,radiant,necrotic,"cold, poison","charmed, exhaustion, frightened, paralyzed, poisoned, stunned",8.0,,3.5
+598,Lotus Golem,Large,construct,,unaligned,14,82,14,19,14,6,12,4,,"bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine","cold, fire, poison, psychic","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",9.0,,3.5
+599,Lou Carcolh,Medium,monstrosity,,unaligned,14,78,15,14,14,3,10,10,,,,,2.0,,1.8
+600,Loxoda,Huge,monstrosity,,neutral evil,13,147,19,12,19,12,14,10,,,,,6.0,,6.86
+601,Lunar Devil,Large,fiend,devil,lawful evil,16,94,21,21,20,16,15,18,,"cold; bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered","fire, poison",poisoned,8.0,,3.5
+602,Lystrosaurus,Medium,beast,,unaligned,14,45,16,10,16,2,9,6,,,,,2.0,,1.8
+603,Mage,Medium,humanoid,any race,any alignment,12,40,9,14,11,17,12,11,,,,,6.0,,1.8
+604,Magma Mephit,Small,elemental,,neutral evil,11,22,8,12,12,7,10,10,cold,,"fire, poison",poisoned,0.5,,0.9
+605,Magmin,Small,elemental,,chaotic neutral,14,9,7,15,12,8,11,10,,"bludgeoning, piercing, and slashing from nonmagical weapons",fire,,0.5,,0.9
+606,Mahoru,Large,monstrosity,,unaligned,15,91,18,19,14,3,12,7,,,,,3.0,,3.5
+607,Malakbel,Medium,fiend,demon,chaotic evil,14,102,14,17,19,13,16,20,,"cold, lightning; bludgeoning, piercing, and slashing damage from nonmagical weapons","fire, radiant, poison","blinded, poisoned",9.0,,1.8
+608,Mallqui,Medium,undead,,lawful neutral,14,120,16,9,16,11,16,14,,"cold, lightning; bludgeoning, piercing, and slashing from nonmagical weapons","necrotic, poison","charmed, exhaustion, frightened, paralyzed, poisoned",8.0,,1.8
+609,Malphas (Storm Crow),Medium,fey,,neutral evil,16,120,19,19,16,14,13,14,,,,,6.0,,1.8
+610,Mammon,Huge,fiend,devil,lawful evil,20,378,22,13,24,23,21,26,,cold,"fire, poison; bludgeoning, piercing, and slashing from weapons that aren't silvered","charmed, exhaustion, frightened, poisoned",25.0,"Mammon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Mammon regains spent legendary actions at the start of his turn.",6.86
+611,Mammoth,Huge,beast,,unaligned,13,126,24,9,21,3,11,6,,,,,6.0,,6.86
+612,Mamura,Small,aberration,fey,neutral evil,16,97,8,18,19,17,11,16,,"bludgeoning, piercing, and slashing from nonmagical weapons",,,6.0,,0.9
+613,Manabane Scarab Swarm,Medium,Swarm of Tiny beasts,,unaligned,15,75,3,16,16,1,13,2,,"bludgeoning, piercing, slashing",,"charmed, frightened, paralyzed, petrified, prone, restrained, stunned",4.0,,1.8
+614,Manastorm Golem,Medium,construct,,unaligned,14,90,6,14,14,16,8,1,,"bludgeoning, piercing, and slashing from magical weapons","acid, cold, fire, lightning, necrotic, poison, psychic, radiant, thunder","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",8.0,,1.8
+615,Mandrake,Tiny,plant,,unaligned,8,22,10,6,16,1,9,12,,,poison,"exhaustion, poisoned",0.5,,0.6
+616,Mandriano,Large,plant,,lawful evil,13,60,15,6,15,10,10,7,fire,"necrotic; bludgeoning, piercing, and slashing from nonmagical attacks",poison,"exhaustion, poisoned",5.0,,3.5
+617,Manticore,Large,monstrosity,,lawful evil,14,68,17,16,17,7,12,8,,,,,3.0,,3.5
+618,Map Mimic,Tiny,aberration,shapechanger,neutral,14,32,10,15,14,13,15,16,,,acid,prone,0.25,,0.6
+619,Marilith,Large,fiend,demon,chaotic evil,18,189,18,20,20,18,16,20,,"cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical weapons",poison,poisoned,16.0,,3.5
+620,Mask Wight,Medium,undead,,neutral evil,19,207,22,18,24,15,16,18,,"acid, fire, lightning, cold; bludgeoning, piercing, and slashing from nonmagical weapons","necrotic, poison","charmed, frightened, paralyzed, petrified, poisoned, stunned, unconscious",13.0,,1.8
+621,Mastiff,Medium,beast,,unaligned,12,5,13,14,12,3,12,7,,,,,0.125,,1.8
+622,Matriarch Serpentine Lamia,Large,monstrosity,,neutral evil,15,90,12,17,16,8,15,19,,,,,5.0,,3.5
+623,Mavka,Medium,undead,,chaotic evil,17,170,20,15,18,13,13,18,,"acid, fire, necrotic; bludgeoning, piercing, and slashing from nonmagical weapons","cold, lightning",,12.0,,1.8
+624,Mbielu,Huge,beast,,unaligned,15,95,19,14,16,2,12,6,,,,,3.0,,6.86
+625,"Mechuiti, Demon Lord Of Apes",Gargantuan,fiend,demon,chaotic evil,19,370,29,19,27,18,18,22,,,"acid, fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical weapons","charmed, frightened, poisoned, stunned",27.0,"Mechuiti can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Mechuiti regains spent legendary actions at the start of its turn.",10.0
+626,Medusa,Medium,monstrosity,,lawful evil,15,127,10,15,16,12,13,15,,,,,6.0,,1.8
+627,Megapede,Large,monstrosity,,unaligned,15,75,17,14,15,2,7,3,,,acid,,3.0,,3.5
+628,Merfolk,Medium,humanoid,merfolk,neutral,11,11,10,13,12,11,11,12,,,,,0.125,,1.8
+629,Merrow,Large,monstrosity,,chaotic evil,13,45,18,10,15,8,10,9,,,,,2.0,,3.5
+630,Mi-Go,Medium,plant,,neutral evil,17,76,16,19,21,25,15,13,,"radiant, cold",,,5.0,,1.8
+631,Millitaur,Large,monstrosity,,neutral,14,85,18,14,16,8,12,10,,poison; bludgeoning and slashing from nonmagical weapons,,prone,3.0,,3.5
+632,Mimic,Medium,monstrosity,shapechanger,neutral,12,58,17,12,15,5,13,8,,,acid,prone,2.0,,1.8
+633,Mindrot Thrall,Medium,plant,,neutral,15,82,15,14,17,11,14,6,,bludgeoning and piercing from nonmagical weapons,"acid, poison","charmed, frightened, poisoned",3.0,,1.8
+634,Minotaur,Large,monstrosity,,chaotic evil,14,76,18,11,16,6,16,9,,,,,3.0,,3.5
+635,Minotaur Skeleton,Large,undead,,lawful evil,12,67,18,11,15,6,8,5,bludgeoning,,poison,"exhaustion, poisoned",2.0,,3.5
+636,Mirager,Medium,fey,shapechanger,neutral evil,13,78,12,16,14,10,14,20,,,,,3.0,,1.8
+637,Miremal,Small,fey,,chaotic evil,13,22,10,16,12,10,12,8,,,,,0.5,,0.9
+638,Mirror Hag,Medium,fey,,chaotic neutral,16,168,15,16,22,12,14,19,,thunder,,"charmed, frightened",6.0,,1.8
+639,Mngwa,Medium,aberration,,neutral evil,16,91,19,17,15,11,17,17,,,,,4.0,,1.8
+640,Mold Zombie,Medium,undead,,chaotic evil,13,75,17,8,16,3,6,5,,,"necrotic, poison","exhaustion, poisoned",3.0,,1.8
+641,Monarch Skeleton,Medium,undead,,neutral evil,16,142,21,14,20,12,14,8,,"bludgeoning, piercing, and slashing from nonmagical attacks not made with silver","necrotic, poison","charmed, exhaustion, paralyzed, petrified, poisoned",9.0,,1.8
+642,Monkey King,Medium,celestial,,neutral,21,262,19,24,22,16,21,17,,,"necrotic, poison, radiant","charmed, frightened, poisoned, stunned",21.0,"The Monkey King can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The Monkey King regains spent legendary actions at the start of his turn.",1.8
+643,Monolith Champion,Large,construct,,unaligned,17,102,19,12,16,10,10,10,,,"poison, bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine","charmed, exhaustion, frightened, paralyzed, poisoned",8.0,,3.5
+644,Monolith Footman,Large,construct,,unaligned,14,60,18,12,14,10,10,10,,,"poison, bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine","charmed, exhaustion, frightened, paralyzed, poisoned",3.0,,3.5
+645,Moon Drake,Medium,dragon,,neutral,15,76,10,20,19,13,18,14,varies (see Moonbound),varies (see Moonbound),,"paralyzed, unconscious",5.0,,1.8
+646,Moon Nymph,Medium,aberration,,chaotic neutral,13,110,5,17,12,13,15,17,,"necrotic, radiant",psychic,,8.0,,1.8
+647,Moonchild Naga,Large,monstrosity,,neutral evil,15,75,17,18,14,12,16,18,,,poison,"charmed, poisoned",6.0,,3.5
+648,Moonlit King,Medium,fey,,neutral good,17,170,16,20,18,20,18,20,,"acid; bludgeoning, piercing, and slashing from weapons that aren't made of cold iron.","cold, fire, poison","charmed, frightened, poisoned",17.0,"The Moonlit King can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The Moonlit King regains spent legendary actions at the start of his turn.",1.8
+649,Mordant Snare,Gargantuan,aberration,,chaotic evil,18,264,23,16,22,15,14,6,,bludgeoning from nonmagical weapons,acid,prone,15.0,,10.0
+650,Morko,Small,fey,,chaotic evil,12,17,12,15,11,12,10,8,,,"fire, poison",,0.25,,0.9
+651,Morphoi,Medium,plant,shapechanger,chaotic evil,13,33,11,16,13,14,10,15,,,,,0.5,,1.8
+652,Moss Lurker,Small,humanoid,,chaotic neutral,15,45,14,14,12,12,10,10,,,"fire, poison","blind, poisoned",1.0,,0.9
+653,Mountain Giant,Gargantuan,giant,,neutral evil,20,313,26,10,22,14,20,10,,,"cold, fire, lightning, thunder; bludgeoning","charmed, frightened, paralyzed, petrified, stunned",21.0,"A mountain giant can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The mountain giant regains spent legendary actions at the start of its turn.",10.0
+654,Mud Golem,Small,construct,,unaligned,10,27,15,10,13,3,8,1,,"bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine","poison, psychic","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",1.0,,0.9
+655,Mule,Medium,beast,,unaligned,10,11,14,10,13,2,10,5,,,,,0.125,,1.8
+656,Mummy,Medium,undead,,lawful evil,11,58,16,8,15,6,10,12,fire,,"bludgeoning, piercing, and slashing from nonmagical weapons","necrotic, poisoned",3.0,,1.8
+657,Mummy Lord,Medium,undead,,lawful evil,17,97,18,10,17,11,18,16,bludgeoning,,"necrotic, poison; bludgeoning, piercing, and slashing from nonmagical weapons","charmed, exhaustion, frightened, paralyzed, poisoned",15.0,"The mummy lord can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The mummy lord regains spent legendary actions at the start of its turn.",1.8
+658,Myling,Small,undead,,chaotic evil,13,45,15,10,12,10,12,10,,"bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered","necrotic, poison","charmed, frightened, poisoned, stunned, unconscious",2.0,,0.9
+659,Mytholabe,Large,construct,,unaligned,18,152,20,13,18,6,16,1,,"acid, cold, fire, radiant, thunder","poison, psychic; bludgeoning, piercing, and slashing from magical attacks","charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone",9.0,,3.5
+660,Nachzehrer,Medium,undead,,chaotic evil,15,136,20,12,18,10,15,9,,,"necrotic, poison","charmed, exhaustion, frightened, poisoned",8.0,,1.8
+661,Naina,Large,dragon,shapechanger,lawful evil,17,231,20,16,21,15,18,18,,"bludgeoning, piercing, and slashing from nonmagical weapons",,"paralyzed, poisoned, unconscious",11.0,,3.5
+662,Nalfeshnee,Large,fiend,demon,chaotic evil,18,184,21,10,22,19,12,15,,"cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical weapons",poison,poisoned,13.0,,3.5
+663,Nalusa Falaya,Medium,aberration,,neutral evil,13,33,12,15,13,11,13,9,,,,,0.5,,1.8
+664,Necrophage Ghast,Medium,undead,,chaotic evil,13,65,10,17,14,16,10,8,,necrotic,poison,"charmed, exhaustion, poisoned",4.0,,1.8
+665,Necrotic Tick,Tiny,beast,,unaligned,15,3,2,14,12,1,12,8,,,,,0.25,,0.6
+666,Neophron,Medium,fiend,"demon, shapechanger",chaotic evil,16,114,19,16,20,8,16,14,,"cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks",poison,poisoned,8.0,,1.8
+667,Ngobou,Large,beast,,unaligned,15,85,20,9,16,2,9,6,,,,,5.0,,3.5
+668,Nian,Large,monstrosity,,chaotic neutral,13,102,18,11,17,11,16,9,,,poison,"charmed, paralyzed, poisoned",4.0,,3.5
+669,Nichny,Medium,fey,,neutral evil,17,112,17,19,17,18,18,19,,"acid, cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered",poison,"charmed, frightened, paralyzed, poisoned, unconscious",6.0,,1.8
+670,Night Hag,Medium,fiend,,neutral evil,17,112,18,15,16,16,14,16,,"cold, fire; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered",,charmed,5.0,,1.8
+671,Night Scorpion,Large,beast,,unaligned,14,90,15,14,14,1,9,3,,,,,3.0,,3.5
+672,Nightgarm,Large,monstrosity,,chaotic evil,15,114,20,14,18,10,15,16,,"lightning, thunder; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered",,,6.0,,3.5
+673,Nightgaunt,Large,aberration,,lawful evil,17,142,18,17,18,4,16,16,,"bludgeoning, necrotic",,"blinded, frightened",10.0,,3.5
+674,Nightmare,Large,fiend,,neutral evil,13,68,18,15,16,10,13,15,,,fire,,3.0,,3.5
+675,Nihilethic Zombie,Medium,undead,,neutral evil,9,22,13,6,16,3,6,5,,"bludgeoning, piercing, and slashing from nonmagical weapons","cold, necrotic, poison; bludgeoning, piercing and slashing from nonmagical weapons (only when in ethereal form)",poisoned,1.0,,1.8
+676,Ningyo,Small,aberration,,neutral evil,15,77,8,21,15,14,11,7,,"acid, cold, fire, necrotic, poison",,,7.0,,0.9
+677,Nkosi,Medium,humanoid,,"nkosi), lawful neutral",15,11,16,16,12,10,10,8,,,,,0.5,,1.8
+678,Nkosi Pridelord,Medium,humanoid,,"nkosi), lawful neutral",16,93,18,18,12,10,10,14,,,,,4.0,,1.8
+679,Nkosi War Ostrich,Large,beast,,unaligned,11,42,15,12,16,2,10,5,,,,,0.5,,3.5
+680,Noble,Medium,humanoid,any race,any alignment,15,9,11,12,11,12,14,16,,,,,0.125,,1.8
+681,Noctiny,Medium,humanoid,noctiny,neutral evil,13,52,12,13,14,10,11,16,,,,frightened,2.0,,1.8
+682,Nodosaurus,Large,beast,,unaligned,13,45,17,11,14,2,12,5,,,,,1.0,,3.5
+683,Ochre Jelly,Large,ooze,,unaligned,8,45,15,6,14,2,6,1,,acid,"lightning, slashing","blinded, charmed, deafened, exhaustion, frightened, prone",2.0,,3.5
+684,Octopus,Small,beast,,unaligned,12,3,4,15,11,3,10,4,,,,,0.0,,0.9
+685,Oculo Swarm,Large,swarm of Tiny aberrations,,neutral evil,15,110,10,20,16,8,15,17,,"bludgeoning, piercing, slashing",,"charmed, frightened, paralyzed, petrified, prone, restrained, stunned",4.0,,3.5
+686,Ogre,Large,giant,,chaotic evil,11,59,19,8,16,5,7,7,,,,,2.0,,3.5
+687,"Ogre Chieftain, Corrupted",Large,giant,,chaotic evil,17,127,20,8,16,5,7,8,,,,,6.0,,3.5
+688,Ogre Zombie,Large,undead,,neutral evil,8,85,19,6,18,3,6,5,,,poison,poisoned,2.0,,3.5
+689,Oliphaunt,Gargantuan,beast,,unaligned,14,148,27,9,23,3,11,6,,,,,8.0,,10.0
+690,One-Headed Clockwork Dragon,Large,construct,,unaligned,16,178,22,10,20,10,10,1,,,"poison, psychic","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",8.0,,3.5
+691,Oni,Large,giant,,lawful evil,16,110,19,11,16,14,12,15,,,,,7.0,,3.5
+692,Oozasis,Gargantuan,ooze,,unaligned,7,217,18,5,20,12,22,18,,"fire, lightning; bludgeoning, piercing, and slashing from nonmagical weapons",acid,"blinded, charmed, deafened, exhaustion, frightened, prone",9.0,,10.0
+693,Ophanim,Large,celestial,,lawful good,19,200,24,22,25,22,24,26,,"radiant; bludgeoning, piercing, and slashing from nonmagical attacks","necrotic, poison","charmed, exhaustion, frightened, poisoned",16.0,,3.5
+694,Orc,Medium,humanoid,orc,chaotic evil,13,15,16,12,16,7,11,10,,,,,0.5,,1.8
+695,Orobas Devil,Large,fiend,devil,lawful evil,19,261,26,14,28,23,26,21,,"acid, cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered","fire, poison",poisoned,14.0,,3.5
+696,Orthrus,Medium,monstrosity,,lawful neutral,13,60,15,16,16,8,12,7,,,,,3.0,,1.8
+697,Ostinato,Medium,aberration,,chaotic neutral,15,39,1,20,15,5,12,17,,"acid, cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical weapons",poison,"charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious",4.0,,1.8
+698,Oth,Large,aberration,shoth,lawful neutral,15,119,16,10,16,11,14,18,,"acid, cold, fire",,,5.0,,3.5
+699,Otyugh,Large,aberration,,neutral,14,114,16,11,19,6,13,6,,,,,5.0,,3.5
+700,Ouroban,Medium,humanoid,dragonborn,neutral evil,18,209,18,10,13,12,12,18,,,fire,poisoned,11.0,,1.8
+701,Ouroboros,Huge,dragon,,neutral,15,94,21,11,19,15,18,12,,,,,6.0,"The ouroboros can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The ouroboros regains spent legendary actions at the start of its turn.",6.86
+702,Owl,Tiny,beast,,unaligned,11,1,3,13,8,2,12,7,,,,,0.0,,0.6
+703,Owl Harpy,Medium,monstrosity,,neutral evil,14,112,12,17,16,11,14,14,,,,,5.0,,1.8
+704,Owlbear,Large,monstrosity,,unaligned,13,59,20,12,17,3,12,7,,,,,3.0,,3.5
+705,Pact Drake,Small,dragon,,lawful neutral,14,45,9,14,17,17,18,20,,"bludgeoning, piercing, and slashing from nonmagical attacks","psychic, radiant","charmed, frightened",1.0,,0.9
+706,Pact Lich,Medium,undead,,any evil alignment,17,195,11,16,16,16,14,20,,"cold, fire, necrotic","poison; bludgeoning, piercing and slashing from nonmagical attacks","charmed, frightened, paralyzed, poisoned",15.0,"The pact lich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The lich regains spent legendary actions at the start of its turn.",1.8
+707,Panther,Medium,beast,,unaligned,12,13,14,15,10,3,14,7,,,,,0.25,,1.8
+708,Paper Drake,Small,dragon,,neutral,13,78,7,17,16,10,12,13,,,,"paralysis, unconscious",2.0,,0.9
+709,Paper Golem,Tiny,construct,,unaligned,13,7,8,16,12,3,7,3,fire,"bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine","poison, psychic","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",0.25,,0.6
+710,Paper Golem Swarm,Medium,constructs,,unaligned,13,55,8,16,12,3,7,3,fire,,"poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine","charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone, restrained, stunned",3.0,,1.8
+711,Pattern Dancer,Medium,humanoid,elf,chaotic evil,13,33,10,16,12,12,12,16,,,,,2.0,,1.8
+712,Pech,Small,elemental,,neutral good,15,33,16,11,14,11,13,11,,,poison,"exhaustion, paralyzed, petrified, poisoned, prone, restrained, unconscious",2.0,,0.9
+713,Pech Lithlord,Small,elemental,,neutral good,17,104,18,11,16,11,18,13,,,poison,"exhaustion, paralyzed, petrified, poisoned, prone, restrained, unconscious",7.0,,0.9
+714,Pech Stonemaster,Small,elemental,,neutral good,16,65,18,11,16,11,16,11,,,poison,"exhaustion, paralyzed, petrified, poisoned, prone, restrained, unconscious",4.0,,0.9
+715,Pegasus,Large,celestial,,chaotic good,12,59,18,15,16,10,15,13,,,,,2.0,,3.5
+716,Peluda Drake,Large,dragon,,chaotic neutral,15,68,17,14,16,6,14,10,,,,,3.0,,3.5
+717,Phantom,Medium,undead,,any alignment,11,22,7,12,10,6,12,12,,"acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks","cold, necrotic, poison","charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained",1.0,,1.8
+718,Phase Spider,Large,monstrosity,,unaligned,13,32,15,15,12,6,10,6,,,,,3.0,,3.5
+719,Philosopher's Ghost,Medium,ooze,,unaligned,13,77,9,17,12,2,10,6,,"acid, cold; slashing from nonmagical attacks","fire, poison","blinded, charmed, deafened, exhaustion, frightened, prone",4.0,,1.8
+720,Piasa,Large,dragon,,unaligned,15,144,18,11,16,9,12,7,poison,,,,6.0,,3.5
+721,Pillar of the Lost Magocracy,Huge,construct,,chaotic neutral,14,90,9,1,13,18,8,13,,"bludgeoning, piercing, and slashing from nonmagical attacks",poison,"charmed, exhaustion, frightened, paralyzed, petrified, poisoned",4.0,,6.86
+722,Pishacha,Medium,fiend,shapechanger,chaotic evil,13,55,16,14,13,10,16,7,radiant,"cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks",poison,poisoned,3.0,,1.8
+723,Pit Fiend,Large,fiend,devil,lawful evil,19,300,26,14,24,22,18,24,,"cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered","fire, poison",poisoned,20.0,,3.5
+724,Pixiu,Large,monstrosity,,unaligned,15,112,18,15,14,5,12,10,,necrotic,,,6.0,,3.5
+725,Planetar,Large,celestial,,lawful good,19,200,24,20,24,19,22,25,,"radiant; bludgeoning, piercing, and slashing from nonmagical weapons",,"charmed, exhaustion, frightened",16.0,,3.5
+726,Plaresh,Medium,fiends,demon,chaotic evil,15,30,2,17,16,6,12,3,,"cold, fire, lightning; bludgeoning, slashing, and piercing",poison,"charmed, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned",3.0,,1.8
+727,Plesiosaurus,Large,beast,,unaligned,13,68,18,15,16,2,12,5,,,,,2.0,,3.5
+728,Poisonous Snake,Tiny,beast,,unaligned,13,2,2,16,11,1,10,3,,,,,0.125,,0.6
+729,Polar Bear,Large,beast,,unaligned,12,42,20,10,16,2,13,7,,,,,2.0,,3.5
+730,Pombero,Medium,fey,,chaotic neutral,15,90,17,16,16,8,10,14,,,,,3.0,,1.8
+731,Pony,Medium,beast,,unaligned,10,11,15,10,13,2,11,7,,,,,0.125,,1.8
+732,Possessed Pillar,Large,construct,,unaligned,14,95,20,8,19,3,11,1,,,"poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",7.0,,3.5
+733,Preta,Medium,undead,,neutral evil,13,75,15,14,16,10,13,15,,necrotic,poison,"exhaustion, frightened, paralyzed, petrified, poisoned",3.0,,1.8
+734,Priest,Medium,humanoid,any race,any alignment,13,27,10,10,12,13,16,13,,,,,2.0,,1.8
+735,Prismatic Beetle Swarm,Medium,swarm of Tiny beasts,,unaligned,13,38,3,16,12,1,13,2,,"bludgeoning, piercing, slashing",,"charmed, frightened, paralyzed, petrified, prone, restrained, stunned",3.0,,1.8
+736,Pseudodragon,Tiny,dragon,,neutral good,13,7,6,15,13,10,12,10,,,,,0.25,,0.6
+737,Psoglav Demon,Large,fiend,demon,chaotic evil,17,115,21,23,20,16,19,18,,"cold, lightning","fire, poison",poisoned,7.0,,3.5
+738,Purple Slime,Large,ooze,,unaligned,7,76,17,8,18,2,6,1,,,"acid, cold","blinded, charmed, deafened, exhaustion, frightened, prone",3.0,,3.5
+739,Purple Worm,Gargantuan,monstrosity,,unaligned,18,247,28,7,22,1,8,4,,,,,15.0,,10.0
+740,Putrid Haunt,Medium,undead,,neutral evil,13,44,17,8,13,6,11,6,,bludgeoning and piercing from nonmagical weapons,poison,"charmed, exhaustion, poisoned",2.0,,1.8
+741,"Qorgeth, Demon Lord Of The Devouring Worm",Gargantuan,fiend,demon,chaotic evil,21,370,29,6,26,9,19,18,,"cold, fire, lightning","poison; bludgeoning, piercing, and slashing from nonmagical weapons","blinded, charmed, exhaustion, frightened, poisoned",23.0,"Qorgeth can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Qorgeth regains spent legendary actions at the start of its turn.",10.0
+742,Quasit,Tiny,fiend,demon,chaotic evil,13,7,5,17,10,7,10,10,,"cold; fire; lightning; bludgeoning, piercing, and slashing from nonmagical weapons",poison,poisoned,1.0,,0.6
+743,Queen Of Night And Magic,Medium,fey,,neutral evil,15,180,12,20,17,20,18,26,,"fire, lightning","cold; bludgeoning, piercing, and slashing from weapons that aren't made of cold iron","charmed, frightened",21.0,"The Queen of Night and Magic can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The Queen of Night and Magic regains spent legendary actions at the start of her turn.",1.8
+744,Queen Of Witches,Large,fey,,neutral,18,123,22,10,19,16,18,22,,"fire, cold; bludgeoning, piercing, and slashing damage from weapons that aren't cold iron",radiant,"blinded, charmed, frightened",17.0,"Nicnevin can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Nicnevin regains spent legendary actions at the start of its turn.",3.5
+745,Quickstep,Small,fey,,neutral evil,16,49,14,19,15,10,12,14,,,,unconscious,5.0,,0.9
+746,Quiet Soul,Medium,undead,,neutral evil,15,90,6,10,10,8,18,10,,,"cold, poison, psychic",poisoned,6.0,,1.8
+747,Quipper,Tiny,beast,,unaligned,13,1,2,16,9,1,7,2,,,,,0.0,,0.6
+748,Qwyllion,Medium,aberration,,neutral evil,16,110,12,20,19,12,13,16,,"acid, cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical weapons",,,8.0,,1.8
+749,Rageipede,Small,beast,,unaligned,15,55,15,14,15,1,7,3,,,,,2.0,,0.9
+750,Rakshasa,Medium,fiend,,lawful evil,16,110,14,17,18,13,16,20,piercing from magic weapons wielded by good creatures,,"bludgeoning, piercing, and slashing from nonmagical weapons",,13.0,,1.8
+751,Ramag,Medium,humanoid,ramag,neutral,13,27,9,14,10,16,12,11,,,,,0.25,,1.8
+752,Ramag Portal Master,Medium,humanoid,ramag,neutral,12,71,10,14,12,18,12,13,,,,,5.0,,1.8
+753,Rat,Tiny,beast,,unaligned,10,1,2,11,9,2,10,4,,,,,0.0,,0.6
+754,Rat King,Medium,monstrosity,,chaotic evil,14,76,6,16,18,11,15,16,,"bludgeoning, piercing, slashing",poison,"charmed, frightened, paralyzed, petrified, prone, restrained, stunned",5.0,,1.8
+755,Ratatosk,Tiny,celestial,,chaotic neutral,14,42,4,18,12,17,10,18,,"bludgeoning, piercing, and slashing damage from nonmagical weapons",,,4.0,,0.6
+756,Ratatosk Warlord,Small,celestial,,chaotic neutral,16,77,7,18,14,12,14,12,,"bludgeoning, piercing, and slashing from nonmagical attacks",,,5.0,,0.9
+757,Ratfolk,Small,humanoid,ratfolk,neutral,14,7,7,15,11,14,10,10,,,,,0.25,,0.9
+758,Ratfolk Mercenary,Small,humanoid,ratfolk,neutral,15,45,7,18,11,14,10,10,,,,,2.0,,0.9
+759,Ratfolk Rogue,Small,humanoid,ratfolk,neutral,15,18,7,16,12,14,10,10,,,,,1.0,,0.9
+760,Ratfolk Warlock,Small,humanoid,ratfolk,any alignment,13,27,8,16,12,14,12,17,,,,,1.0,,0.9
+761,Rattok,Small,fiend,demon,chaotic evil,14,66,10,16,14,14,6,9,,"cold, lightning","fire, necrotic, poison",poisoned,4.0,,0.9
+762,Raven,Tiny,beast,,unaligned,12,1,2,14,8,2,12,6,,,,,0.0,,0.6
+763,Ravenala,Large,plant,,unaligned,15,126,20,10,20,12,16,12,,"bludgeoning, piercing",,"blinded, deafened",5.0,,3.5
+764,Ravenfolk Doom Croaker,Medium,humanoid,kenku,neutral,14,88,10,14,12,12,18,14,,,,,5.0,,1.8
+765,Ravenfolk Scout,Medium,humanoid,kenku,neutral,14,21,10,14,8,10,15,12,,,,,0.5,,1.8
+766,Ravenfolk Warrior,Medium,humanoid,kenku,neutral,15,78,12,16,14,10,13,10,,,,,3.0,,1.8
+767,Razorleaf,Medium,plant,,neutral evil,14,112,14,12,16,7,12,10,fire,"cold, necrotic",,"blinded, deafened, exhaustion",5.0,,1.8
+768,Red Dragon Wyrmling,Medium,dragon,,chaotic evil,17,75,19,10,17,12,11,15,,,fire,,4.0,,1.8
+769,Red Hag,Medium,fey,,neutral evil,15,119,19,16,18,18,22,15,,,,"charmed, poisoned",7.0,,1.8
+770,Red-Banded Line Spider,Tiny,beast,,unaligned,13,2,4,16,10,1,10,2,,,psychic,"charmed, frightened",0.25,,0.6
+771,Redcap,Medium,fey,,neutral evil,15,105,20,10,17,11,13,8,,"bludgeoning, piercing, and slashing damage from nonmagical weapons",,"charmed, frightened",6.0,,1.8
+772,Reef Shark,Medium,beast,,unaligned,12,22,14,13,13,1,10,4,,,,,0.5,,1.8
+773,Remorhaz,Huge,monstrosity,,unaligned,17,195,24,13,21,4,10,5,,,"cold, fire",,11.0,,6.86
+774,Rhinoceros,Large,beast,,unaligned,11,45,21,8,15,2,12,6,,,,,2.0,,3.5
+775,Riding Horse,Large,beast,,unaligned,10,13,16,10,12,2,11,7,,,,,0.25,,3.5
+776,Rift Swine,Large,aberration,,chaotic neutral,15,110,18,10,17,4,12,5,,"force, poison",,,5.0,,3.5
+777,Rime Worm Grub,Medium,elemental,,neutral,13,45,16,12,16,4,12,3,,cold,,,1.0,,1.8
+778,Rimewing,Small,beast,,unaligned,12,22,11,14,12,3,10,7,,,cold,,0.25,,0.9
+779,Ring Servant,Large,construct,,neutral,15,114,20,10,18,8,13,10,,"cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks",poison,"charmed, exhaustion, frightened, paralyzed, petrified, poisoned, stunned",8.0,,3.5
+780,Risen Reaver,Large,undead,,chaotic evil,15,168,19,16,20,9,7,6,,,,,7.0,,3.5
+781,River King,Medium,fey,,chaotic neutral,18,152,21,17,20,14,13,17,,"fire, cold, thunder; bludgeoning, piercing, and slashing damage from weapons that aren't cold iron",lightning,exhaustion,16.0,"The River King can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The River King regains spent legendary actions at the start of his turn.",1.8
+782,Roachling Lord,Small,humanoid,roachling,chaotic neutral,15,63,10,16,12,10,10,10,,,,,2.0,,0.9
+783,Roachling Scout,Small,humanoid,roachling,chaotic neutral,14,63,10,18,13,10,14,8,,,,,2.0,,0.9
+784,Roachling Skirmisher,Small,humanoid,roachling,chaotic neutral,13,7,10,14,11,10,9,8,,,,,0.25,,0.9
+785,Roc,Gargantuan,monstrosity,,unaligned,15,248,28,10,20,3,10,9,,,,,11.0,,10.0
+786,Roggenwolf,Medium,monstrosity,,neutral evil,13,60,14,16,13,5,13,14,,"bludgeoning, piercing, and slashing from nonmagical attacks not made with silver",,,2.0,,1.8
+787,Roper,Large,monstrosity,,neutral evil,20,93,18,8,17,7,16,6,,,,,5.0,,3.5
+788,Rotting Wind,Large,undead,,neutral evil,15,82,14,20,15,7,12,10,,"bludgeoning, piercing, and slashing from nonmagical weapons","necrotic, poison","charmed, exhaustion, grappled, frightened, paralyzed, petrified, poisoned, prone, restrained, unconscious",6.0,,3.5
+789,Rubezahl,Medium,fiend,demon,chaotic evil,15,110,20,15,14,11,12,18,,"cold, fire; bludgeoning, piercing, and slashing damage from nonmagical weapons","lightning, thunder, poison","poisoned, stunned",10.0,,1.8
+790,Ruby Ooze,Medium,ooze,,unaligned,9,93,14,8,18,2,6,1,lightning,"bludgeoning, piercing, and slashing from nonmagical attacks","acid, fire","blinded, charmed, deafened, exhaustion, frightened, prone",6.0,,1.8
+791,Rug of Smothering,Large,construct,,unaligned,12,33,17,14,10,1,3,1,,,"poison, psychic","blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned",2.0,,3.5
+792,Rum Gremlin,Tiny,fey,,chaotic evil,13,22,10,16,14,12,9,12,,,,poisoned,0.5,,0.6
+793,Rusalka,Medium,undead,,chaotic evil,14,88,17,13,12,11,15,18,,,"necrotic, poison; piercing and slashing damage from nonmagical weapons","charmed, frightened, paralyzed, poisoned",6.0,,1.8
+794,Rust Drake,Medium,dragon,,chaotic evil,17,161,20,15,19,12,8,8,,,poison,"paralyzed, poisoned",8.0,,1.8
+795,Rust Monster,Medium,monstrosity,,unaligned,14,27,13,12,13,2,13,6,,,,,0.5,,1.8
+796,Saber-Toothed Tiger,Large,beast,,unaligned,12,52,18,14,15,3,12,8,,,,,2.0,,3.5
+797,Sahuagin,Medium,humanoid,sahuagin,lawful evil,12,22,13,11,12,12,13,9,,,,,0.5,,1.8
+798,Salamander,Large,elemental,,neutral evil,15,90,18,14,15,11,10,12,cold,"bludgeoning, piercing, and slashing from nonmagical weapons",fire,,5.0,,3.5
+799,Salt Devil,Medium,fiend,devil,lawful evil,13,93,18,13,18,13,14,15,,"acid, cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered","fire, poison",poisoned,6.0,,1.8
+800,Salt Golem,Large,construct,,unaligned,17,110,20,9,20,3,11,1,,,"fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",10.0,,3.5
+801,Sammael,Medium,celestial,,neutral good,16,104,18,10,14,10,19,12,,"radiant; bludgeoning, piercing, and slashing from nonmagical attacks",,"charmed, exhaustion, frightened",7.0,,1.8
+802,Sand Hag,Medium,monstrosity,,chaotic evil,17,112,18,15,16,16,14,16,,,,,5.0,,1.8
+803,Sand Silhouette,Medium,undead,,neutral evil,15,105,18,12,17,7,12,10,,"bludgeoning, piercing, and slashing from nonmagical weapons","necrotic, poison","charmed, exhaustion, grappled, frightened, paralyzed, petrified, poisoned, prone, restrained, unconscious",6.0,,1.8
+804,Sand Spider,Large,beast,,unaligned,15,105,20,17,14,4,12,4,,,,,7.0,,3.5
+805,Sandman,Medium,celestial,,chaotic neutral,14,82,11,19,16,13,14,19,,"cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical weapons","poison, psychic","charmed, exhaustion, frightened, poisoned, unconscious",5.0,,1.8
+806,Sandwyrm,Large,dragon,,unaligned,15,142,20,12,18,5,13,8,,,,,6.0,,3.5
+807,Sap Demon,Small,ooze,,chaotic evil,13,67,14,6,12,10,14,10,,piercing and slashing from nonmagical weapons,"bludgeoning; acid, lightning","blinded, charmed, deafened, exhaustion, frightened, prone",4.0,,0.9
+808,Sarcophagus Slime,Medium,undead,,neutral evil,11,105,14,12,18,3,12,12,,"acid, necrotic",poison,"blinded, charmed, deafened, exhaustion, frightened, poisoned, prone",5.0,,1.8
+809,Sathaq Worm,Huge,elemental,,neutral evil,16,172,22,6,20,5,12,9,,"fire; bludgeoning, piercing, and slashing from nonmagical weapons","acid, poison","exhaustion, paralyzed, petrified, poisoned, unconscious",10.0,,6.86
+810,Satyr,Medium,fey,,chaotic neutral,14,31,12,16,11,12,10,14,,,,,0.5,,1.8
+811,Savager,Large,beast,,neutral evil,17,115,22,14,22,2,10,13,,"bludgeoning, piercing, and slashing from nonmagical weapons",,"charmed, frightened",8.0,,3.5
+812,Scheznyki,Small,fey,,chaotic evil,16,153,19,15,18,15,16,16,,,,unconscious,6.0,,0.9
+813,Scitalis,Large,monstrosity,,unaligned,13,58,16,12,12,2,18,3,,cold,,,2.0,,3.5
+814,Scorpion,Tiny,beast,,unaligned,11,1,2,11,8,1,8,2,,,,,0.0,,0.6
+815,Scorpion Cultist,Medium,humanoid,,neutral,13,19,11,14,15,10,13,10,,poison,,,0.5,,1.8
+816,Scout,Medium,humanoid,any race,any alignment,13,16,11,14,12,11,13,11,,,,,0.5,,1.8
+817,Sea Dragon Wyrmling,Medium,dragon,,neutral evil,17,52,17,10,15,13,11,15,,,cold,,2.0,,1.8
+818,Sea Hag,Medium,fey,,chaotic evil,14,52,16,13,16,12,12,13,,,,,2.0,,1.8
+819,Sea Horse,Tiny,beast,,unaligned,11,1,1,12,8,1,10,2,,,,,0.0,,0.6
+820,Selang,Medium,fey,,chaotic evil,15,76,18,15,18,12,14,19,,"bludgeoning, piercing, and slashing from nonmagical weapons","acid, lightning",,4.0,,1.8
+821,Sentinel in Darkness,Large,construct,,unaligned,13,127,20,9,16,6,18,1,,"bludgeoning, piercing, and slashing from nonmagical attacks",poison,"charmed, exhaustion, frightened, paralyzed, petrified, poisoned",7.0,,3.5
+822,Serpentfolk of Yig,Medium,humanoid,,neutral evil,12,40,11,14,11,14,11,14,,,poison,poisoned,1.0,,1.8
+823,Serpentine Lamia,Medium,monstrosity,,neutral evil,13,36,12,15,11,8,13,15,,,,,1.0,,1.8
+824,Serpopard,Large,beast,,unaligned,15,85,17,16,16,2,12,6,,poison,,poisoned,4.0,,3.5
+825,Servant of Yig,Medium,aberration,,neutral evil,12,90,15,14,16,14,12,14,,,poison,poisoned,4.0,,1.8
+826,Servant of the Vine,Medium,humanoid,elf,chaotic neutral,16,72,10,15,11,13,16,14,,,,,6.0,,1.8
+827,Shabti,Medium,construct,,unaligned,17,102,14,20,18,6,11,6,,,"poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",8.0,,1.8
+828,Shadhavar,Large,monstrosity,,neutral,14,97,14,15,14,8,10,16,,,,,2.0,,3.5
+829,Shadow,Medium,undead,,chaotic evil,12,16,6,14,13,6,10,8,radiant,"acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical weapons","necrotic, poison","exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained",0.5,,1.8
+830,Shadow Beast,Medium,fey,,chaotic evil,14,135,20,18,17,14,14,19,,,,,7.0,,1.8
+831,Shadow Blight,Small,plant,,neutral evil,13,65,13,15,16,5,16,3,fire,"cold, necrotic",,"blinded, deafened",1.0,,0.9
+832,Shadow Fey,Medium,humanoid,elf,lawful evil,15,31,10,14,10,11,11,13,,,,,0.25,,1.8
+833,Shadow Fey Ambassador,Medium,humanoid,elf,lawful evil,16,161,13,18,18,16,16,20,,,,,9.0,,1.8
+834,Shadow Fey Duelist,Medium,humanoid,elf,lawful evil,17,117,13,20,14,13,12,16,,,,,6.0,,1.8
+835,Shadow Fey Enchantress,Medium,humanoid,,lawful evil,16,123,10,15,14,12,17,18,,,,,7.0,,1.8
+836,Shadow Fey Forest Hunter,Medium,humanoid,elf,lawful evil,15,104,12,18,12,11,12,16,,,,,5.0,,1.8
+837,Shadow Fey Guardian,Large,humanoid,elf,neutral evil,15,110,18,14,16,6,14,8,,,,"charmed, frightened",4.0,,3.5
+838,Shadow Fey Poisoner,Medium,humanoid,elf,neutral,16,112,11,18,16,13,11,14,,,poison,poisoned,11.0,,1.8
+839,Shadow Goblin,Small,humanoid,goblinoid,neutral evil,13,13,10,16,12,13,12,8,,,,,0.5,,0.9
+840,Shadow Ooze,Medium,ooze,,unaligned,8,76,16,6,18,2,6,2,,,"acid, necrotic","blinded, charmed, deafened, exhaustion, frightened, prone",3.0,,1.8
+841,Shadow River Lord,Medium,undead,,neutral evil,16,135,14,18,16,12,16,18,,"cold, fire, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks",poison,"charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained",9.0,,1.8
+842,Shadow Skeleton,Medium,undead,,neutral evil,13,52,10,16,15,9,11,9,,"fire, piercing, slashing",poison,"exhaustion, poisoned",2.0,,1.8
+843,Shambling Mound,Large,plant,,unaligned,15,136,18,8,16,5,10,5,,"cold, fire",lightning,"blinded, deafened, exhaustion",5.0,,3.5
+844,Shantak,Large,monstrosity,,lawful evil,16,123,18,12,18,6,14,8,,necrotic,,,5.0,,3.5
+845,Shard Swarm,Medium,constructs,,unaligned,13,22,3,13,11,1,5,1,,"bludgeoning, piercing, slashing","poison, psychic","blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone",0.5,,1.8
+846,Sharkjaw Skeleton,Large,undead,,lawful evil,13,45,16,10,15,6,8,4,,,"cold, necrotic, poison","exhaustion, poisoned",1.0,,3.5
+847,Shellycoat,Medium,fey,,neutral evil,14,75,17,15,16,13,9,7,,,,"charmed, unconscious",2.0,,1.8
+848,Shield Guardian,Large,construct,,unaligned,17,142,18,8,18,7,10,3,,,poison,"charmed, exhaustion, frightened, paralyzed, poisoned",7.0,,3.5
+849,Shockwing,Small,beast,,unaligned,12,27,11,15,14,3,10,7,,,lightning,,1.0,,0.9
+850,Shoggoth,Huge,aberration,,chaotic neutral,18,387,26,14,28,12,16,13,,"fire, bludgeoning, piercing","cold, thunder, slashing","blinded, deafened, prone, stunned, unconscious",19.0,,6.86
+851,Shoreline Scrapper,Large,beast,,unaligned,16,93,16,12,16,3,11,5,,,,,4.0,,3.5
+852,Shrieker,Medium,plant,,unaligned,5,13,1,1,10,1,3,1,,,,"blinded, deafened, frightened",0.0,,1.8
+853,Shroud,Medium,undead,,neutral evil,13,9,4,13,10,2,10,8,,"acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered","necrotic, poison","exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained",0.125,,1.8
+854,Sigilian,Medium,construct,,unaligned,14,65,6,18,14,5,10,20,psychic,"bludgeoning, piercing and slashing from nonmagical attacks",poison,"blinded, charmed, deafened, exhaustion, frightened, paralyzed, poisoned, unconscious",2.0,,1.8
+855,Silver Dragon Wyrmling,Medium,dragon,,lawful good,17,45,19,10,17,12,11,15,,,cold,,2.0,,1.8
+856,Simhamukha,Huge,celestial,dakini,chaotic good,16,115,21,15,19,12,17,19,,"cold, fire, lightning, psychic; bludgeoning, piericing, and slashing damage from nonmagical attacks","necrotic, poison, radiant",poisoned,8.0,,6.86
+857,Simurg,Gargantuan,celestial,,neutral good,15,108,18,11,17,14,17,16,,radiant,,,5.0,,10.0
+858,Skein Witch,Medium,celestial,,neutral,20,162,6,12,14,16,20,20,,radiant,"fire, lightning, psychic",,12.0,,1.8
+859,Skeleton,Medium,undead,,lawful evil,13,13,10,14,15,6,8,5,bludgeoning,,,poisoned,0.25,,1.8
+860,Skin Bat,Small,undead,,neutral evil,13,14,12,16,10,2,13,6,,,poison,poisoned,0.5,,0.9
+861,Skitterhaunt,Large,ooze,,unaligned,14,95,15,11,19,1,7,1,,,acid,"blinded, charmed, deafened, exhaustion, frightened, prone",4.0,,3.5
+862,Skull Drake,Medium,dragon,,neutral,15,75,16,17,16,8,12,10,radiant,poison,necrotic,poisoned,3.0,,1.8
+863,Skull Lantern,Tiny,undead,,unaligned,13,14,1,16,12,3,6,5,,,poison,"charmed, exhaustion, frightened, paralyzed, poisoned, prone, unconscious",0.25,,0.6
+864,Sleipnir,Large,monstrosity,,neutral good,15,105,20,12,20,10,15,10,,cold,,exhaustion,5.0,,3.5
+865,Slow Storm,Huge,elemental,,chaotic neutral,19,225,20,19,22,11,16,11,,"acid, cold, fire",lightning,prone,15.0,,6.86
+866,Sluagh Swarm,Medium,swarm of Tiny fey,,chaotic evil,13,54,6,16,11,6,13,10,,"cold; bludgeoning, piercing, and slashing",,"charmed, frightened, paralyzed, petrified, prone, restrained, stunned",3.0,,1.8
+867,Smaragdine Golem,Large,construct,,unaligned,17,231,24,11,21,3,11,1,,,"poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",14.0,,3.5
+868,Snow Cat,Medium,beast,,unaligned,12,13,14,14,10,3,14,7,,,,,0.25,,1.8
+869,Snow Hag,Medium,fey,,neutral evil,17,82,16,12,16,13,14,16,fire,,cold,,3.0,,1.8
+870,Snow Queen,Medium,fey,,neutral evil,17,123,16,18,14,18,20,18,,"bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't cold iron",cold,"charmed, frightened, exhaustion",16.0,"The Snow Queen can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The Snow Queen regains spent legendary actions at the start of her turn.",1.8
+871,Solar,Large,celestial,,lawful good,21,243,26,22,26,25,25,30,,"radiant; bludgeoning, piercing, and slashing from nonmagical weapons","necrotic, poison","charmed, exhaustion, frightened, poisoned",21.0,"The solar can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The solar regains spent legendary actions at the start of its turn.",3.5
+872,Son Of Fenris,Huge,monstrosity,,chaotic evil,17,175,26,16,23,16,18,14,,"psychic, radiant","cold, lightning, poison; bludgeoning, piercing, and slashing from nonmagical weapons","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",12.0,,6.86
+873,Song Angel,Large,celestial,,lawful good,15,76,12,16,16,18,18,21,,"radiant; bludgeoning, piercing, and slashing from nonmagical attacks",,"charmed, exhaustion, frightened",6.0,,3.5
+874,Sootwing,Small,beast,,unaligned,11,13,11,12,12,3,10,7,,,fire,,0.25,,0.9
+875,Sooze,Medium,aberration,shoth,lawful neutral,12,49,14,10,10,10,14,16,,"acid, cold, fire",,,0.5,,1.8
+876,Soul Eater,Medium,fiend,,neutral evil,16,104,13,22,14,12,11,11,,"bludgeoning, piercing, and slashing from nonmagical weapons",poison,"paralyzed, poisoned, stunned, unconscious",7.0,,1.8
+877,Spark,Tiny,elemental,,chaotic neutral,16,84,4,20,18,10,12,17,,"acid, fire, force, thunder; bludgeoning, piercing, and slashing from nonmagical weapons",lightning,"exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious",7.0,,0.6
+878,Spawn Of Akyishigal,Medium,fiend,demon,chaotic evil,15,119,15,13,19,10,11,12,,,poison,poisoned,5.0,,1.8
+879,Spawn Of Arbeyach,Medium,fiend,devil,lawful evil,17,78,18,15,15,10,13,12,,,poison,poisoned,5.0,,1.8
+880,Spawn of Chernobog,Large,fiend,,chaotic evil,14,95,22,12,18,10,12,12,radiant,necrotic,,"charmed, frightened",4.0,,3.5
+881,Speaker to the Darkness,Small,humanoid,derro,chaotic evil,16,135,11,16,18,10,9,18,radiant,,,frightened,5.0,,0.9
+882,Specter,Medium,undead,,chaotic evil,12,22,1,14,11,10,10,11,,"acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical weapons","necrotic, poison","charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious",1.0,,1.8
+883,Spectral Guardian,Medium,undead,,neutral evil,14,110,6,18,18,11,16,18,,"acid, fire, lightning, thunder; bludgeoning, piercing, and slashing damage from nonmagical weapons","cold, necrotic, poison","charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained",6.0,,1.8
+884,Spider,Tiny,beast,,unaligned,12,1,2,14,8,1,10,2,,,,,0.0,,0.6
+885,Spider Drake,Large,dragon,,lawful evil,18,136,19,13,17,7,16,15,,,poison,poisoned,9.0,,3.5
+886,Spider Of Leng,Large,aberration,,chaotic evil,15,144,14,16,16,17,10,10,,poison,,"charmed, poisoned, unconscious",7.0,,3.5
+887,Spider Thief,Small,construct,,unaligned,13,54,10,12,12,3,10,1,,fire,"poison, psychic","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",2.0,,0.9
+888,Spinosaurus,Gargantuan,beast,,unaligned,15,231,27,9,22,2,11,10,,,,,13.0,"The spinosaurus can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The spinosaurus regains spent legendary actions at the start of its turn.",10.0
+889,Spire Walker,Tiny,fey,,chaotic neutral,16,38,3,18,14,11,10,14,,piercing from nonmagical weapons,"lightning, thunder",,3.0,,0.6
+890,Spirit Lamp,Medium,undead,,chaotic evil,17,82,12,19,16,13,14,19,,"bludgeoning, piercing, and slashing from nonmagical attacks","necrotic, poison, psychic","charmed, frightened, poisoned, unconscious",7.0,,1.8
+891,Spirit Naga,Large,monstrosity,,chaotic evil,15,75,18,17,14,16,15,16,,,poison,"charmed, poisoned",8.0,,3.5
+892,Spree,Small,fiend,demon,chaotic evil,15,84,11,17,16,10,8,15,,"cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks",poison,"frightened, poisoned",5.0,,0.9
+893,Sprite,Tiny,fey,,neutral good,15,2,3,18,10,14,13,11,,,,,0.25,,0.6
+894,Spy,Medium,humanoid,any race,any alignment,12,27,10,15,10,12,14,16,,,,,1.0,,1.8
+895,Star Drake,Large,dragon,,neutral,19,189,20,17,21,16,24,20,,,"cold, fire; bludgeoning, piercing, and slashing from nonmagical weapons","charmed, frightened, paralyzed, unconscious",15.0,"The drake can take 3 legendary actions, choosing from the options below. Only one option can be used at a time and only at the end of another creature's turn. The drake regains spent legendary actions at the start of its turn.",3.5
+896,Star Spawn Of Cthulhu,Large,fiend,,chaotic evil,17,187,25,15,24,30,18,23,,"bludgeoning, piercing, slashing","cold, fire, lightning, poison, psychic","exhaustion, frightened, paralyzed, petrified, poisoned",15.0,,3.5
+897,Steam Golem,Large,construct,,unaligned,18,171,26,12,18,3,10,1,,,"fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",13.0,,3.5
+898,Steam Mephit,Small,elemental,,neutral evil,10,21,5,11,10,11,10,12,,,"fire, poison",poisoned,0.25,,0.9
+899,Stirge,Tiny,beast,,unaligned,14,2,4,16,11,2,8,6,,,,,0.125,,0.6
+900,Stone Giant,Huge,giant,,neutral,17,126,23,15,20,10,12,9,,,,,7.0,,6.86
+901,Stone Golem,Large,construct,,unaligned,17,178,22,9,20,3,11,1,,,"poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",10.0,,3.5
+902,Storm Giant,Huge,giant,,chaotic good,16,230,29,14,20,16,18,18,,cold,"lightning, thunder",,13.0,,6.86
+903,Storm Lord,Huge,elemental,,neutral,17,161,20,18,16,12,14,18,,"acid, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks",poison,"exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious",13.0,,6.86
+904,Storm Spirit,Medium,elemental,,neutral,14,22,12,14,11,6,10,6,,,"lightning, thunder","exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious",0.5,,1.8
+905,Stryx,Tiny,monstrosity,,neutral,13,10,3,17,11,8,15,6,,,,,0.125,,0.6
+906,Stuhac,Medium,fiend,,neutral evil,18,190,22,18,20,12,16,15,,"acid, fire; bludgeoning and piercing from nonmagical weapons","cold, poison",poisoned,13.0,,1.8
+907,Stygian Fat-Tailed Scorpion,Tiny,beast,,unaligned,14,10,3,16,10,1,10,2,,,,,3.0,,0.6
+908,Subek,Large,humanoid,subek,lawful neutral,17,76,19,10,18,14,13,13,,,,,5.0,,3.5
+909,Succubus/Incubus,Medium,fiend,shapechanger,neutral evil,15,66,8,17,13,15,12,20,,"cold, fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical weapons",,,4.0,,1.8
+910,Sunset Raptor,Medium,monstrosity,,unaligned,13,32,12,15,14,4,12,16,,,,,1.0,,1.8
+911,Suppurating Ooze,Medium,ooze,,unaligned,8,30,16,6,16,1,6,2,,"cold, necrotic, slashing",poison,"blinded, charmed, deafened, exhaustion, frightened, poisoned, prone",1.0,,1.8
+912,Suturefly,Tiny,beast,,unaligned,14,7,1,19,10,1,12,4,,,,,0.25,,0.6
+913,Swamp Adder,Small,beast,,unaligned,13,18,4,16,12,1,10,4,,,,,0.25,,0.9
+914,Swarm of Bats,Medium,swarm of Tiny beasts,,unaligned,12,22,5,15,10,2,12,4,,"bludgeoning, piercing, slashing",,"charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned",0.25,,1.8
+915,Swarm of Beetles,Medium,swarm of Tiny beasts,,unaligned,12,22,3,13,10,1,7,1,,"bludgeoning, piercing, slashing",,"charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned",0.5,,1.8
+916,Swarm of Centipedes,Medium,swarm of Tiny beasts,,unaligned,12,22,3,13,10,1,7,1,,"bludgeoning, piercing, slashing",,"charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned",0.5,,1.8
+917,Swarm of Insects,Medium,swarm of Tiny beasts,,unaligned,12,22,3,13,10,1,7,1,,"bludgeoning, piercing, slashing",,"charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned",0.5,,1.8
+918,Swarm of Poisonous Snakes,Medium,swarm of Tiny beasts,,unaligned,14,36,8,18,11,1,10,3,,"bludgeoning, piercing, slashing",,"charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned",2.0,,1.8
+919,Swarm of Quippers,Medium,swarm of Tiny beasts,,unaligned,13,28,13,16,9,1,7,2,,"bludgeoning, piercing, slashing",,"charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned",1.0,,1.8
+920,Swarm of Rats,Medium,swarm of Tiny beasts,,unaligned,10,24,9,11,9,2,10,3,,"bludgeoning, piercing, slashing",,"charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned",0.25,,1.8
+921,Swarm of Ravens,Medium,swarm of Tiny beasts,,unaligned,12,24,6,14,8,3,12,6,,"bludgeoning, piercing, slashing",,"charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned",0.25,,1.8
+922,Swarm of Spiders,Medium,swarm of Tiny beasts,,unaligned,12,22,3,13,10,1,7,1,,"bludgeoning, piercing, slashing",,"charmed, frightened, paralyzed, petrified, prone, restrained, stunned",0.5,,1.8
+923,Swarm of Wasps,Medium,swarm of Tiny beasts,,unaligned,12,22,3,13,10,1,7,1,,"bludgeoning, piercing, slashing",,"charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned",0.5,,1.8
+924,Swolbold,Medium,humanoid,kobold,chaotic neutral,14,65,19,11,15,6,12,7,,bludgeoning,,,3.0,,1.8
+925,Tar Ghoul,Medium,undead,,neutral evil,13,66,16,17,13,11,10,8,,necrotic,"fire, poison","charmed, exhaustion, poisoned",4.0,,1.8
+926,Tarrasque,Gargantuan,monstrosity,titan,unaligned,25,676,30,11,30,3,11,11,,,"fire, poison; bludgeoning, piercing, and slashing from nonmagical weapons","charmed, frightened, paralyzed, poisoned",30.0,"The tarrasque can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The tarrasque regains spent legendary actions at the start of its turn.",10.0
+927,Temple Dog,Medium,celestial,,good,15,97,18,14,15,8,14,10,,"bludgeoning, piercing, and slashing from nonmagical weapons",,,5.0,,1.8
+928,Terror Bird,Large,beast,,unaligned,12,65,18,12,14,3,12,10,,,,,2.0,,3.5
+929,The Barbed,Small,humanoid,kobold,lawful evil,13,44,14,16,12,8,10,11,,,poison,poisoned,1.0,,0.9
+930,Thorned Sulfurlord,Huge,fiend,,chaotic evil,17,171,20,14,16,10,9,12,cold,,"fire, poison","charmed, poisoned",11.0,,6.86
+931,Thread-Bound Constrictor Snake,Huge,construct,,unaligned,12,60,19,14,12,1,10,3,,"bludgeoning, piercing, and slashing from nonmagical attacks",poison,"charmed, exhaustion, frightened, paralyzed, petrified, poisoned",3.0,,6.86
+932,Three-Headed Clockwork Dragon,Huge,construct,,unaligned,18,275,25,10,23,10,10,1,,,"poison, psychic","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",14.0,,6.86
+933,Three-Headed Cobra,Large,monstrosity,,unaligned,16,127,14,18,16,4,10,6,,poison,,,5.0,,3.5
+934,Thuellai,Huge,elemental,,chaotic neutral,17,149,22,24,20,10,11,14,,"lightning, thunder; bludgeoning, piercing, and slashing from nonmagical weapons",poison,"exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious",10.0,,6.86
+935,Thug,Medium,humanoid,any race,any non-good alignment,11,32,15,11,14,10,10,11,,,,,0.5,,1.8
+936,Thursir Giant,Large,giant,,neutral evil (50%) lawful evil (50%),13,114,19,10,18,13,15,11,,,,,3.0,,3.5
+937,Tiger,Large,beast,,unaligned,12,37,17,15,14,3,12,8,,,,,1.0,,3.5
+938,Titanoboa,Gargantuan,beast,,unaligned,14,232,26,10,20,3,10,3,,,,,12.0,,10.0
+939,Tophet,Huge,construct,,neutral evil,16,184,24,10,20,6,10,10,,necrotic,"fire, cold, poison","exhaustion, frightened, paralyzed, petrified, poisoned",8.0,,6.86
+940,Tosculi Drone,Small,monstrosity,,lawful evil,13,22,8,16,14,8,12,4,,,,,0.5,,0.9
+941,Tosculi Elite Bow Raider,Medium,humanoid,tosculi,lawful evil,16,97,14,18,17,12,14,12,,,,,5.0,,1.8
+942,Tosculi Hive-Queen,Large,monstrosity,,lawful evil,17,157,17,24,20,16,16,18,,,poison,"charmed, poisoned",12.0,"The hive-queen can take 3 legendary actions, choosing from the options below. Only one option can be used at a time and only at the end of another creature's turn. The hive-queen regains spent legendary actions at the start of its turn.",3.5
+943,Tosculi Jeweled Drone,Small,humanoid,tosculi,lawful evil,15,90,10,18,18,14,14,17,,,,"charmed, frightened",4.0,,0.9
+944,Tosculi Warrior,Small,monstrosity,,lawful evil,15,58,12,20,16,10,12,12,,,,,2.0,,0.9
+945,"Totivillus, Scribe Of Hell",Medium,fiend,devil,lawful evil,19,299,18,18,24,26,22,18,,"bludgeoning, piercing, and slashing from nonmagical weapons","fire, poison",poisoned,24.0,"Totivillus can take 3 legendary actions, choosing from the options below. Only one option can be used at a time and only at the end of another creature's turn. Totivillus regains spent legendary actions at the start of its turn.",1.8
+946,Treacle,Tiny,ooze,,unaligned,13,22,4,6,17,1,1,10,,,,,0.25,,0.6
+947,Treant,Huge,plant,,chaotic good,16,138,23,8,21,12,16,12,fire,"bludgeoning, piercing",,,9.0,,6.86
+948,Tribal Warrior,Medium,humanoid,any race,any alignment,12,11,13,11,12,8,11,8,,,,,0.125,,1.8
+949,Triceratops,Huge,beast,,unaligned,13,95,22,9,17,2,11,5,,,,,5.0,,6.86
+950,Troll,Large,giant,,chaotic evil,15,84,18,13,20,7,9,7,,,,,5.0,,3.5
+951,Trollkin Reaver,Medium,humanoid,trollkin,neutral,14,82,19,13,16,11,12,13,,,,,4.0,,1.8
+952,Trollkin Shaman,Medium,humanoid,trollkin,neutral,14,78,14,13,14,10,16,12,,,,,4.0,,1.8
+953,Trollking Grunt,Medium,humanoid,trollkin,neutral,14,45,18,13,16,9,11,10,,,,,2.0,,1.8
+954,Tulpa,Medium,undead,,neutral evil,13,39,14,16,14,10,14,9,radiant,"acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks","cold, necrotic, poison","charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained",4.0,,1.8
+955,Tusked Crimson Ogre,Large,giant,,chaotic evil,14,93,19,8,16,5,7,7,,poison,,frightened,5.0,,3.5
+956,Tusked Skyfish,Large,aberration,,lawful good,14,102,17,12,17,3,14,10,,,lightning,,4.0,,3.5
+957,Tveirherjar,Medium,undead,,lawful evil,18,102,19,12,19,10,14,14,,slashing from nonmagical attacks,poison,poisoned,7.0,,1.8
+958,Two-Headed Eagle,Huge,monstrosity,,unaligned,15,142,20,21,16,6,12,14,,,,charmed,7.0,,6.86
+959,Tyrannosaurus Rex,Huge,beast,,unaligned,13,136,25,10,19,2,12,9,,,,,8.0,,6.86
+960,Umbral Vampire,Medium,fiend,,chaotic evil,14,84,1,18,15,14,14,19,,"acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical weapons","cold, necrotic, poison","exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained",7.0,,1.8
+961,Undead Phoenix,Huge,undead,,chaotic evil,17,142,23,14,17,8,17,9,,,"necrotic, fire, poison",poisoned,12.0,,6.86
+962,Unhatched,Small,undead,,chaotic evil,14,71,15,14,16,18,10,9,bludgeoning,"necrotic, piercing",poison,"charmed, exhaustion, frightened, paralyzed, poisoned",4.0,,0.9
+963,Unicorn,Large,celestial,,lawful good,12,67,18,14,15,11,17,16,,,poison,"charmed, paralyzed, poisoned",5.0,"The unicorn can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The unicorn regains spent legendary actions at the start of its turn.",3.5
+964,Uraeus,Tiny,celestial,,lawful neutral,14,40,6,15,14,10,14,9,,"fire; bludgeoning, piercing, and slashing damage from nonmagical weapons",poison,poisoned,2.0,,0.6
+965,Urochar (Strangling Watcher),Huge,aberration,,chaotic evil,19,256,24,15,24,14,14,20,,"cold, lightning; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered",thunder,frightened,17.0,"The urochar can take 3 legendary actions, choosing from the options below. Only one option can be used at a time and only at the end of another creature's turn. The strangling watcher regains spent legendary actions at the start of its turn.",6.86
+966,Ursa Polaris,Large,monstrosity,,neutral evil,15,133,20,12,18,4,16,5,fire,,cold,,7.0,,3.5
+967,Ushabti,Large,construct,,unaligned,18,105,21,17,20,11,19,9,,,"poison; bludgeoning, piercing, and slashing from nonmagical weapons","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",9.0,,3.5
+968,Vaettir,Medium,undead,,lawful evil,15,120,20,14,16,10,12,14,,,"necrotic, poison","charmed, frightened, poisoned",4.0,,1.8
+969,Valkyrie,Medium,celestial,,neutral,16,112,18,18,16,12,19,18,,"acid, cold, fire, lightning, thunder","bludgeoning, piercing, and slashing from nonmagical weapons",frightened,11.0,"A valkyrie can take 3 legendary actions, choosing from the options below. Only one option can be used at a time and only at the end of another creature's turn. A valkyrie regains spent legendary actions at the start of her turn.",1.8
+970,Vampire,Medium,undead,shapechanger,lawful evil,16,144,18,18,18,17,15,18,,"necrotic; bludgeoning, piercing, and slashing from nonmagical weapons",,,13.0,"The vampire can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The vampire regains spent legendary actions at the start of its turn.",1.8
+971,Vampire Patrician,Medium,undead,,lawful evil,16,119,15,18,18,16,13,20,,"necrotic; bludgeoning, piercing, and slashing from nonmagical attacks",,,10.0,,1.8
+972,Vampire Priestess,Medium,undead,,lawful evil,16,105,16,12,16,13,20,15,,"necrotic; bludgeoning, piercing, and slashing from nonmagical attacks",,charmed,8.0,,1.8
+973,Vampire Spawn,Medium,undead,,neutral evil,15,82,16,16,16,11,10,12,,"necrotic; bludgeoning, piercing, and slashing from nonmagical weapons",,,5.0,,1.8
+974,Vampire Warlock - Variant,Medium,undead,shapechanger,lawful evil,16,144,18,18,18,17,15,18,,"necrotic, bludgeoning, piercing, and slashing from nonmagical weapons",,,13.0,Misty Step. The vampire warlock uses misty step.,1.8
+975,Vampiric Knight,Medium,undead,,neutral evil,20,127,20,14,18,13,17,14,,"necrotic; bludgeoning, piercing, and slashing from nonmagical attacks",,,11.0,,1.8
+976,Vanara,Medium,humanoid,simian,neutral good,13,55,14,16,12,11,15,12,,,,,2.0,,1.8
+977,Vapor Lynx,Large,monstrosity,,chaotic neutral,14,127,15,18,16,10,13,14,,,,,5.0,,3.5
+978,Vellso,Medium,fiend,demon,chaotic evil,15,120,18,15,16,9,14,7,,"cold, fire, lightning","necrotic, poison",poisoned,7.0,,1.8
+979,Venom Elemental,Large,elemental,,neutral,14,93,17,14,16,6,10,8,,"bludgeoning, piercing, and slashing from nonmagical attacks",poison,"exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious",4.0,,3.5
+980,Venom Maw Hydra,Huge,monstrosity,,unaligned,15,231,19,17,18,5,10,7,,fire,acid,,12.0,"The venom maw hydra can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The hydra regains spent legendary actions at the start of its turn.",6.86
+981,Venomous Mummy,Medium,undead,,lawful evil,11,58,16,8,15,7,10,14,,"bludgeoning, piercing, and slashing from nonmagical weapons","necrotic, poison","charmed, exhaustion, frightened, paralyzed, poisoned",3.0,,1.8
+982,Vesiculosa,Gargantuan,plant,,unaligned,15,203,20,10,19,2,14,2,,"fire, bludgeoning, piercing",,"charmed, blinded, deafened, frightened, prone",11.0,,10.0
+983,Veteran,Medium,humanoid,any race,any alignment,17,58,16,13,14,10,11,10,,,,,3.0,,1.8
+984,Vila,Medium,fey,,lawful neutral,15,77,12,20,13,11,14,16,,"bludgeoning, piercing, and slashing from nonmagical weapons",,,5.0,,1.8
+985,Vile Barber,Small,fey,,chaotic evil,15,28,12,18,10,10,8,10,,"bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered or made of cold iron",,frightened,2.0,,0.9
+986,Vine Lord,Medium,plant,,lawful neutral,16,105,12,20,16,14,16,18,,,,"blinded, deafened",7.0,,1.8
+987,Vine Lord's Tendril Puppet,Medium,plant,,lawful neutral,13,34,16,12,18,6,6,8,,,,"blinded, deafened",2.0,,1.8
+988,Vine Troll Skeleton,Large,plant,,unaligned,16,119,20,12,16,6,8,5,,"bludgeoning,",poison,"deafened, exhaustion, poisoned",9.0,,3.5
+989,Vines of Nemthyr,Large,plant,,neutral evil,15,133,19,12,19,5,13,5,,"cold, poison",,"blinded, deafened, frightened, poisoned",8.0,,3.5
+990,Violet Fungus,Medium,plant,,unaligned,5,18,3,1,10,1,3,1,,,,"blinded, deafened, frightened",0.25,,1.8
+991,Void Dragon Wyrmling,Medium,dragon,,chaotic neutral,17,45,16,10,17,12,9,17,,,cold,,2.0,,1.8
+992,Void Giant,Huge,giant,,chaotic neutral,14,210,24,10,18,18,10,14,,,,,11.0,,6.86
+993,Voidling,Large,aberration,,chaotic evil,16,110,15,22,10,14,16,10,,,necrotic,"exhaustion, petrified, prone",11.0,,3.5
+994,Vrock,Large,fiend,demon,chaotic evil,15,104,17,15,18,8,13,8,,"cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical weapons",poison,poisoned,6.0,,3.5
+995,Vulture,Medium,beast,,unaligned,10,5,7,10,13,2,12,4,,,,,0.0,,1.8
+996,Wampus Cat,Medium,monstrosity,,chaotic neutral,14,58,14,18,15,12,14,16,,,,,1.0,,1.8
+997,War Machine Golem,Gargantuan,construct,,unaligned,18,232,26,8,21,3,10,1,,,"poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",18.0,,10.0
+998,War Wyvern,Large,dragon,,unaligned,15,119,20,12,16,6,14,6,,,,,7.0,,3.5
+999,Warhorse,Large,beast,,unaligned,11,19,18,12,13,2,12,7,,,,,0.5,,3.5
+1000,Warhorse Skeleton,Large,undead,,lawful evil,13,22,18,12,15,2,8,5,bludgeoning,,poison,"exhaustion, poisoned",0.5,,3.5
+1001,Warlock's Trumpetbloom,Large,plant,,neutral evil,15,152,17,10,18,6,10,6,,fire,poison,"blinded, deafened, exhaustion, poisoned",7.0,,3.5
+1002,Wasteland Dragon Wyrmling,Medium,dragon,,chaotic evil,17,60,17,10,17,12,11,13,,,force,,3.0,,1.8
+1003,Water Elemental,Large,elemental,,neutral,14,114,18,14,18,5,10,8,,"acid; bludgeoning, piercing, and slashing from nonmagical weapons",poison,"exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious",5.0,,3.5
+1004,Water Horse,Medium,fey,shapechanger,neutral evil,12,77,16,14,13,10,12,15,,,,,4.0,,1.8
+1005,Water Leaper,Large,monstrosity,,unaligned,14,97,16,14,15,4,12,5,,,,,4.0,,3.5
+1006,Weasel,Tiny,beast,,unaligned,13,1,3,16,8,2,12,3,,,,,0.0,,0.6
+1007,Weaving Spider,Tiny,construct,,unaligned,15,25,10,16,10,9,8,8,,,poison,"blinded, charmed, deafened, exhaustion, frightened, paralyzed, poisoned",1.0,,0.6
+1008,Weeping Treant,Huge,plant,,neutral,17,105,21,8,20,12,16,11,,bludgeoning and piercing,,,6.0,,6.86
+1009,Weirding Scroll,Tiny,construct,,unaligned,10,27,1,10,15,16,10,8,fire,"cold; bludgeoning, piercing, and slashing damage from nonmagical attacks","poison, psychic","blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned",0.5,,0.6
+1010,Wendigo,Medium,monstrosity,,chaotic evil,16,150,21,18,16,11,16,12,,"bludgeoning, piercing, and slashing from nonmagical attacks","cold, fire","exhaustion, stunned",11.0,,1.8
+1011,Werebat,Medium,humanoid,"human, shapechanger",lawful evil,13,66,12,16,12,10,12,9,,,"bludgeoning, piercing, and slashing from nonmagical attacks not made with silver",,3.0,,1.8
+1012,Werebear,Medium,humanoid,human,neutral good,10,135,19,10,17,11,12,12,,,"bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered",,5.0,,1.8
+1013,Wereboar,Medium,humanoid,human,neutral evil,10,78,17,10,15,10,11,8,,,"bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered",,4.0,,1.8
+1014,Werehyena,Medium,humanoid,"gnoll, shapechanger",chaotic evil,13,58,11,16,14,10,11,10,,,"bludgeoning, piercing, and slashing from nonmagical attacks not made with silver",,3.0,,1.8
+1015,Wererat,Medium,humanoid,human,lawful evil,12,33,10,15,12,11,10,8,,,"bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered",,2.0,,1.8
+1016,Weretiger,Medium,humanoid,human,neutral,12,120,17,15,16,10,13,11,,,"bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered",,4.0,,1.8
+1017,Werewolf,Medium,humanoid,human,chaotic evil,11,58,15,13,14,10,11,10,,,"bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered",,3.0,,1.8
+1018,Wharfling,Tiny,beast,,unaligned,13,6,4,16,8,2,12,8,,,,,0.125,,0.6
+1019,Wharfling Swarm,Large,swarm of Tiny beasts,,unaligned,14,63,10,16,8,2,12,7,,"bludgeoning, piercing, slashing",,"charmed, frightened, paralyzed, petrified, prone, restrained, stunned",4.0,,3.5
+1020,Whisperer in Darkness,Medium,aberration,,neutral evil,17,142,15,19,21,25,18,16,,"cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks not made with silver","psychic, poison","frightened, charmed, poisoned",15.0,,1.8
+1021,White Ape,Large,monstrosity,,neutral,14,114,18,16,18,8,14,8,,,,,6.0,,3.5
+1022,White Dragon Wyrmling,Medium,dragon,,chaotic evil,16,32,14,10,14,5,10,11,,,cold,,2.0,,1.8
+1023,White Stag,Large,celestial,,chaotic good,13,45,17,15,13,10,14,15,,,,,2.0,,3.5
+1024,Wickerman,Huge,construct,,neutral evil,8,138,18,8,21,3,14,1,,"bludgeoning, piercing, and slashing from nonmagical attacks",,"charmed, exhaustion, frightened, paralyzed, petrified, poisoned",9.0,,6.86
+1025,Wight,Medium,undead,,neutral evil,14,45,15,14,16,10,13,15,,,"necrotic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered",poisoned,3.0,,1.8
+1026,Will-o'-Wisp,Tiny,undead,,chaotic evil,19,22,1,28,10,13,14,11,,"acid, cold, fire, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical weapons","lightning, poison","exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious",2.0,,0.6
+1027,Wind Demon,Small,fiend,demon,chaotic evil,15,28,10,18,10,10,7,8,,"fire, lightning","cold, poison",poisoned,2.0,,0.9
+1028,Wind Eater,Medium,undead,,lawful evil,14,65,8,18,14,12,16,13,,"acid, cold, fire, lightning, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks",poison,"charmed, exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious",2.0,,1.8
+1029,Wind Weasel,Medium,fey,shapechanger,chaotic neutral,13,52,12,16,14,10,12,11,,,,,2.0,,1.8
+1030,Wind's Harp,Medium,fiend,devil,lawful evil,12,63,10,13,10,10,10,19,,,"cold, fire, poison",poisoned,4.0,,1.8
+1031,Winter Wolf,Large,monstrosity,,neutral evil,13,75,18,13,14,7,12,8,,,cold,,3.0,,3.5
+1032,Wirbeln Fungi,Small,plant,,lawful neutral,13,16,8,16,13,10,12,10,,,,"blinded, deafened, frightened, poisoned",1.0,,0.9
+1033,Witch Queen,Small,humanoid,derro,chaotic evil,15,77,9,16,14,11,9,16,,,,,5.0,,0.9
+1034,Witchlight,Tiny,construct,,neutral,14,10,1,18,10,10,13,7,,,"poison, radiant","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",0.25,,0.6
+1035,Wizard Kobold,Small,humanoid,kobold,lawful neutral,12,58,6,14,13,17,10,8,,,,,5.0,,0.9
+1036,Wolf,Medium,beast,,unaligned,13,11,12,15,12,3,12,6,,,,,0.25,,1.8
+1037,Wolf Reaver Dwarf,Medium,humanoid,dwarf,any chaotic,16,76,18,12,19,9,11,9,,,,,3.0,,1.8
+1038,Wolf Spirit Swarm,Large,swarm of Medium undead,,neutral evil,16,97,14,16,12,4,10,12,,"necrotic; bludgeoning, piercing, slashing",cold,"exhaustion, frightened, paralyzed, petrified, poisoned",6.0,,3.5
+1039,Wolpertinger,Tiny,monstrosity,,unaligned,13,9,6,16,14,5,12,6,,,,,0.25,,0.6
+1040,Wood Golem,Medium,construct,,unaligned,14,52,18,10,15,3,10,1,fire,"bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine","poison, psychic","charmed, exhaustion, frightened, paralyzed, petrified, poisoned",3.0,,1.8
+1041,Woodwose,Medium,humanoid,,chaotic neutral,13,27,16,12,11,10,14,8,,,,,0.5,,1.8
+1042,Worg,Large,monstrosity,,neutral evil,13,26,16,13,13,7,11,8,,,,,0.5,,3.5
+1043,Wormhearted Suffragan,Medium,undead,,chaotic evil,12,97,10,14,16,11,16,8,,"necrotic; bludgeoning, piercing, and slashing from nonmagical weapons",,,5.0,,1.8
+1044,Wraith,Medium,undead,,neutral evil,13,67,6,16,16,12,14,15,,"acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered","necrotic, poison","charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained",5.0,,1.8
+1045,Wyrmling Wind Dragon,Medium,dragon,,chaotic neutral,14,45,16,19,14,12,11,14,,,lightning,"charmed, exhausted, paralyzed",1.0,,1.8
+1046,Wyvern,Large,dragon,,unaligned,13,110,19,10,16,5,12,6,,,,,6.0,,3.5
+1047,Wyvern Knight,Medium,humanoid,any race,lawful evil,20,102,16,10,18,10,12,15,,poison,poisoned,,5.0,,1.8
+1048,Xanka,Small,construct,,unaligned,15,18,10,15,12,4,10,7,,,,"charmed, exhaustion, frightened,",0.25,,0.9
+1049,Xenabsorber,Medium,aberration,,chaotic neutral,15,65,17,12,15,10,13,15,,,,,3.0,,1.8
+1050,Xhkarsh,Large,aberration,,neutral evil,19,133,17,21,18,15,16,15,,,,,8.0,,3.5
+1051,Xiphus,Small,fey,,chaotic evil,15,55,14,21,15,10,12,14,,,lightning,,5.0,,0.9
+1052,Xorn,Medium,elemental,,neutral,19,73,17,10,22,11,10,11,,piercing and slashing from nonmagical weapons that aren't adamantine,,,5.0,,1.8
+1053,Yaga Goo,Small,ooze,,neutral evil,14,85,11,18,20,14,12,11,,,necrotic,"blinded, charmed, deafened, exhaustion, frightened, prone",5.0,,0.9
+1054,Yakirian,Medium,humanoid,yakirian,lawful neutral,13,67,17,11,16,10,12,8,,cold,,,2.0,,1.8
+1055,Yann-An-Oed,Huge,aberration,,neutral,12,47,15,11,17,8,14,7,,,,,2.0,,6.86
+1056,Ychen Bannog,Gargantuan,beast,,unaligned,17,231,28,10,23,3,12,10,,bludgeoning,,exhaustion,11.0,,10.0
+1057,Yek,Small,fiend,demon,chaotic evil,16,77,16,16,15,9,13,10,,"cold, fire, lightning",poison,poisoned,4.0,,0.9
+1058,Young Black Dragon,Large,dragon,,chaotic evil,18,127,19,14,17,12,11,15,,,acid,,7.0,,3.5
+1059,Young Blue Dragon,Large,dragon,,lawful evil,18,152,21,10,19,14,13,17,,,lightning,,9.0,,3.5
+1060,Young Brass Dragon,Large,dragon,,chaotic good,17,110,19,10,17,12,11,15,,,fire,,6.0,,3.5
+1061,Young Bronze Dragon,Large,dragon,,lawful good,18,142,21,10,19,14,13,17,,,lightning,,8.0,,3.5
+1062,Young Cave Dragon,Large,dragon,,neutral evil,17,157,22,12,20,10,12,18,,,"acid, poison, thunder",poisoned,8.0,,3.5
+1063,Young Copper Dragon,Large,dragon,,chaotic good,17,119,19,12,17,16,13,15,,,acid,,7.0,,3.5
+1064,Young Flame Dragon,Large,dragon,,chaotic evil,18,161,15,14,19,15,13,18,,,fire,,9.0,,3.5
+1065,Young Gold Dragon,Large,dragon,,lawful good,18,178,23,14,21,16,13,20,,,fire,,10.0,,3.5
+1066,Young Green Dragon,Large,dragon,,lawful evil,18,136,19,12,17,16,13,15,,,poison,poisoned,8.0,,3.5
+1067,Young Light Dragon,Large,dragon,,neutral good,15,142,18,10,19,14,16,15,,"bludgeoning, piercing, and slashing from nonmagical attacks",radiant,blinded,7.0,,3.5
+1068,Young Mithral Dragon,Medium,dragon,,neutral,16,92,13,22,13,14,15,14,,"bludgeoning, piercing, and slashing from nonmagical weapons","acid, thunder",charmed,6.0,,1.8
+1069,Young Red Dragon,Large,dragon,,chaotic evil,18,178,23,10,21,14,11,19,,,fire,,10.0,,3.5
+1070,Young Sea Dragon,Large,dragon,,neutral evil,18,152,21,10,19,15,13,17,,,cold,,9.0,,3.5
+1071,Young Silver Dragon,Large,dragon,,lawful good,18,168,23,10,21,14,11,19,,,cold,,9.0,,3.5
+1072,Young Spinosaurus,Huge,beast,,unaligned,14,105,23,11,19,2,11,8,,,,,5.0,,6.86
+1073,Young Void Dragon,Large,dragon,,chaotic neutral,18,157,20,10,21,14,11,19,,,cold,"charmed, frightened",9.0,,3.5
+1074,Young Wasteland Dragon,Large,dragon,,chaotic evil,18,178,21,10,21,12,11,12,,,force,,9.0,,3.5
+1075,Young White Dragon,Large,dragon,,chaotic evil,17,133,18,10,18,6,11,12,,,cold,,6.0,,3.5
+1076,Young Wind Dragon,Large,dragon,,chaotic neutral,17,150,20,19,18,14,13,16,,,lightning,"charmed, exhausted, paralyzed, restrained",6.0,,3.5
+1077,Zanskaran Viper,Large,beast,,unaligned,14,38,12,11,18,2,13,2,,,,,1.0,,3.5
+1078,Zaratan,Gargantuan,monstrosity,titan,unaligned,25,507,30,3,28,10,11,11,,"fire, lightning, thunder; bludgeoning, piercing, slashing","cold, poison","frightened, paralyzed, poisoned",26.0,"The zaratan can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The zaratan regains spent legendary actions at the start of its turn.",10.0
+1079,Zimwi,Medium,giant,,chaotic evil,17,76,13,18,19,6,9,7,,,,,4.0,,1.8
+1080,Ziphius,Gargantuan,aberration,,neutral,16,135,19,13,16,9,13,4,,"cold; bludgeoning, piercing and slashing from nonmagical attacks",,prone,8.0,,10.0
+1081,Zmey,Huge,dragon,,chaotic evil,18,189,22,13,19,16,16,12,,"cold, fire",,"paralyzed, unconscious",14.0,"The zmey can take 1 legendary action per head, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The zmey regains spent legendary actions at the start of its turn.",6.86
+1082,Zmey Headling,Medium,dragon,,chaotic evil,16,105,16,10,1,8,16,8,,"cold, fire",,"paralyzed, unconscious",5.0,,1.8
+1083,Zombie,Medium,undead,,neutral evil,8,22,13,6,16,3,6,5,,,,poisoned,0.25,,1.8
+1084,Zoog,Tiny,aberration,,chaotic evil,13,3,3,16,12,11,10,8,,,,,0.0,,0.6
+1085,Zoryas,Medium,celestial,,lawful good,14,104,16,10,14,10,18,18,,"fire, radiant; bludgeoning, piercing, and slashing from nomagical attacks",,"blinded, charmed, deafened, exhaustion, frightened",8.0,,1.8
